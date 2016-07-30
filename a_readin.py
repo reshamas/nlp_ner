@@ -13,5 +13,57 @@
 # -----------------------------------------------------------------------------
 #
 
+#with open("data/all.iob", "r") as infile:
+#with open("data/lines60.iob", "r") as infile:
+with open("data/lines350.iob", "r") as infile:
+    ner_list = []
+    tweet_num = 1
+    tweet_item = 0
+    for line in infile:
+        line=line.rstrip()
+        lineitems = line.split("\t")
+        #print lineitems
+        if line == '':
+            tweet_num += 1
+            tweet_item = 0
+        else:
+            tweet_item += 1
+            token = lineitems[0]
+            tclass1 = lineitems[1]
+
+            print token, tclass1
+
+            item = [tweet_num, tweet_item, token, tclass1]
+            
+            # add a class for twitter mentions
+            if token[0] == "@":
+                tclass2 = "O-mention"
+                item.append(tclass2) 
+                print '------'
+                print item
+                print tclass2
+                
+            # Add a class for emojis
+            if len(token) > 1 and token[0] == ":":
+                tclass3 = "O-emoji"
+                item.append(tclass3)
+                #print item, tclass1, tclass3
+            
+            # Add a class for url links
+            if token.startswith("http"):
+                tclass4 = "O-url"
+                item.append(tclass4)
+                #print item, tclass1, tclass4
+
+            #item = (tweet_num, tweet_item, token, tclass1)
+            
+            ner_list.append(item)
+
+print "------------------------------"
+
+print "len(ner_list):  ",  len(ner_list)
 
 
+print "------------------------------"
+for item in ner_list[:500]:
+    print item
