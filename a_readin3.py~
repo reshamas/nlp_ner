@@ -39,24 +39,27 @@ with open("data/lines50.iob", "r") as infile:
             
                 # add a class for twitter mentions
                 if token[0] == "@":
-                    tclass2 = "O-mention"
-                    item.append(tclass2) 
+                    tclass2 = "B-mention"
+                    #item.append(tclass2)
                     #print '------'
                     #print item
                     #print tclass2
                 
                 # Add a class for emojis
-                if len(token) > 1 and token[0] == ":":
-                    tclass3 = "O-emoji"
-                    item.append(tclass3)
+                elif len(token) > 1 and token[0] == ":":
+                    tclass2 = "B-emoji"
+                    #item.append(tclass3)
                     #print item, tclass1, tclass3
             
                 # Add a class for url links
-                if token.startswith("http"):
-                    tclass4 = "O-url"
-                    item.append(tclass4)
+                elif token.startswith("http"):
+                    tclass2 = "B-url"
+                    #item.append(tclass4)
                     #print item, tclass1, tclass4
 
+                else:
+                    tclass2 = tclass1
+                item.append(tclass2)
                 ner_list.append(item)
 
 
@@ -78,8 +81,8 @@ def find_ngrams(input_list, n):
       return zip(*[input_list[i:] for i in range(n)])
   
 
-test = find_ngrams(ner_list, 3)
-print test
+#test = find_ngrams(ner_list, 3)
+#print test
     
 def ngram(numg, logp):
     #for i in range (2,3):
