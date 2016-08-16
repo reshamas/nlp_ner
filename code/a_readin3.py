@@ -85,6 +85,7 @@ def add_class(datalist, logp):
     add newly defined class.  Example:  mention, url, emoji
     """
     newlist = []
+    changect = 0
     # identify records with a change in class
     for item in datalist:
         change = 0
@@ -92,28 +93,30 @@ def add_class(datalist, logp):
         # add class for twitter mention
         if token[0] == "@":
             tclass2 = "B-mention"
-            change = 1
+            changect += 1
         elif token.startswith("http"):
             # Add a class for url links
             tclass2 = "B-url"
-            change = 1
+            changect += 1
         else:
             tclass2 = item[3]
-            change = 0
+            #change = 0
 
         # print any items where classes were changed, as a check
         if logp == 1:
-            if change == 1:
+            if changect > 0:
                 print "changed:   ", item
-                
+
         item.append(tclass2)
         newlist.append(item)
-
+    print "--------------------------------------"
+    print "number of changes:  ", changect        
+      
     return newlist
 
 ner_list_run2 = add_class(ner_list, 0)
 
-#pprint(ner_list_run2)
+pprint(ner_list_run2[:20])
 
 def output_file(datalist, out_filename):
     """
@@ -121,7 +124,10 @@ def output_file(datalist, out_filename):
     """
     with open(out_filename, "w") as fh:
             for row in datalist:
-                        fh.write(row[2] + "\t" + row[4] + "\n")
+                if row[1]==1:
+                    fh.write("\n" + row[2] + "\t" + row[4] + "\n")
+                else:
+                    fh.write(row[2] + "\t" + row[4] + "\n")
 
 
 output_file(ner_list_run2, "../data_recoded/run2_recode_class.tsv")
@@ -133,6 +139,9 @@ print "length of list:  ", len(ner_list_run2)
 print "--------------------------------------"
 
 # wc -l *.tsv
+
+# check that blank space has been added between tweets
+# head -20 run2_recode_class.tsv
 
 def create_dict(datalist, logp):
     """

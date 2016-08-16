@@ -1,3 +1,4 @@
+
 RT	O
 @PeterRabbitt	B-mention
 :	O
@@ -16,6 +17,7 @@ HAVE	O
 A	O
 WONDERFUL	O
 DAY	O
+
 #fathers	O
 day	O
 Burl	O
@@ -42,6 +44,7 @@ summer	O
 I'...	O
 http://bit.ly/au121g	B-url
 #dad	O
+
 was	O
 on	O
 club	B-product
@@ -69,6 +72,7 @@ old	O
 cp	O
 days	O
 lol	O
+
 @Terrysagirl	B-mention
 love	O
 to	O
@@ -99,6 +103,7 @@ be	O
 on	O
 imdb	B-other
 ;)	O
+
 Happy	O
 birfday	O
 to	O
@@ -119,6 +124,7 @@ wasted	O
 "	O
 tonight	O
 !	O
+
 SWEETY	O
 IM	O
 GONNA	O
@@ -133,6 +139,7 @@ GET	O
 IT	O
 !	O
 XD	O
+
 You	O
 know	O
 you	O
@@ -152,6 +159,7 @@ without	O
 living	O
 there	O
 .	O
+
 @halbpro	B-mention
 it	O
 's	O
@@ -186,6 +194,7 @@ limit	O
 .	O
 depends	O
 though	O
+
 Looks	O
 like	O
 we	O
@@ -201,6 +210,7 @@ next	O
 couple	O
 of	O
 months	O
+
 &quot;	O
 I	O
 gotta	O
@@ -225,6 +235,7 @@ Cover	O
 someone	O
 's	O
 tumblr	B-company
+
 I'm	O
 at	O
 Bowl	B-facility
@@ -238,6 +249,7 @@ Ave	O
 Patchogue)	B-geo-loc
 .	O
 http://4sq.com/aX6N26	B-url
+
 @ConorMc_Ginty	B-mention
 GaGa	B-person
 played	O
@@ -262,6 +274,7 @@ her	O
 for	O
 that	O
 .	O
+
 @yamyamjones	B-mention
 haha	O
 !	O
@@ -287,6 +300,7 @@ yu	O
 smile	O
 x	O
 :D	O
+
 RT	O
 @Mirandreamer	B-mention
 :	O
@@ -302,6 +316,7 @@ yesterday	O
 I	O
 missed	O
 ."	O
+
 Cant	O
 wait	O
 for	O
@@ -314,6 +329,7 @@ go	O
 ray	B-person
 rice	I-person
 !!!!!!!	O
+
 @josiery	B-mention
 Hope	O
 that	O
@@ -339,6 +355,7 @@ of	O
 the	O
 year	O
 :)	O
+
 Want	O
 to	O
 see	O
@@ -359,6 +376,7 @@ shooting	O
 incident	O
 ?	O
 http://wp.me/11Azj	B-url
+
 RT	O
 @CB_Gorka	B-mention
 :	O
@@ -374,6 +392,7 @@ event	O
 :	O
 http://youtu.be/KX5jNnDMfxA	B-url
 #magov	O
+
 &quot;	O
 her	O
 lips	O
@@ -398,6 +417,7 @@ sooooooooo	O
 cute	O
 &lt;	O
 3	O
+
 @ShelAndPushPlay	B-mention
 Yeah	O
 man	O
@@ -414,6 +434,7 @@ matter	O
 of	O
 time	O
 .	O
+
 @suggsygirl	B-mention
 Have	O
 a	O
@@ -427,6 +448,7 @@ inappropriate	O
 photos	O
 !	O
 *bg*	O
+
 @NTRLDisaster	B-mention
 well	O
 I'm	O
@@ -461,12 +483,14 @@ tie	O
 stuff	O
 too	O
 ?	O
+
 Bar	O
 hopping	O
 in	O
 buckhead	O
 tonight	O
 .	O
+
 @majornelson	B-mention
 I'm	O
 out	O
@@ -488,6 +512,7 @@ when	O
 I	O
 leave	O
 ?	O
+
 Just	O
 got	O
 home	O
@@ -500,6 +525,7 @@ it	O
 friday	O
 guys	O
 !,	O
+
 @Sexstrology	B-mention
 lol	O
 im	O
@@ -516,6 +542,7 @@ good	O
 time	O
 2	O
 ??	O
+
 RT	O
 @USArmy	B-mention
 :	O
@@ -535,6 +562,7 @@ read	O
 the	O
 Presidenta	O
 ...	O
+
 Hey	O
 .	O
 #dmv	O
@@ -549,6 +577,7 @@ onenationworkingtogether.org	O
 for	O
 more	O
 info	O
+
 @TheTiniestVole	B-mention
 It	O
 is	O
@@ -575,6 +604,7 @@ for	O
 20	O
 years	O
 .	O
+
 RT	O
 @johan0394	B-mention
 :	O
@@ -597,6 +627,7 @@ Nov	O
 http://t.co/eoELod9	B-url
 via	O
 @SouljaBoy	B-mention
+
 CampaignMonitor	B-other
 denied	O
 list	O
@@ -624,6 +655,7 @@ it	O
 was	O
 &lt;	O
 500	O
+
 back	O
 from	O
 Verona	B-geo-loc
@@ -645,6 +677,7 @@ drink	O
 together	O
 friends	O
 ?	O
+
 RT	O
 @RealJudgeJules	B-mention
 :	O
@@ -669,6 +702,7 @@ tonight	O
 Tune	O
 i	O
 ...	O
+
 @WildLives	B-mention
 I	O
 do	O
@@ -693,6 +727,7 @@ of	O
 playground	O
 noises	O
 .	O
+
 RT	O
 @AniCoronado	B-mention
 :	O
@@ -720,6 +755,7 @@ surge	O
 of	O
 energy	O
 .	O
+
 PeopleSearchAffiliates	O
 .	O
 com	O
@@ -744,6 +780,7 @@ CB	O
 for	O
 ...	O
 http://bit.ly/aVU9RU	B-url
+
 @MiggleM	B-mention
 We'll	O
 catch	O
@@ -755,6 +792,7 @@ time	O
 this	O
 won't	O
 happen*	O
+
 -	O
 FantasyPro	O
 .	O
@@ -784,6 +822,7 @@ Sunday	O
 Sept	O
 19th	O
 .	O
+
 RT	O
 @kiera16_x	B-mention
 :	O
@@ -801,6 +840,7 @@ November	O
 THANKYOU	O
 http://twitition.com/oxm5g	B-url
 @MariaMdn	B-mention
+
 Wow	O
 ..	O
 saw	O
@@ -828,6 +868,7 @@ we	O
 were	O
 perfect	O
 ..	O
+
 @kajelly_milk	B-mention
 (	O
 :	O
@@ -858,6 +899,7 @@ stop	O
 touching	O
 O	O
 :	O
+
 @WEConVERSUS	B-mention
 Sick	O
 fight	O
@@ -870,6 +912,7 @@ boy	O
 all	O
 day	O
 !	O
+
 Starstruck	B-company
 Promo	O
 Special	O
@@ -894,6 +937,7 @@ to	O
 ineedpromo@starstruckpromo	O
 .	O
 com	O
+
 It	O
 's	O
 Friday	O
@@ -905,6 +949,7 @@ ScuttleButton	O
 time	O
 !	O
 http://tinyurl.com/39tkyfh	B-url
+
 datjayycarterkidd	O
 asked	O
 :	O
@@ -929,6 +974,7 @@ you	O
 can	O
 !!	O
 http://tumblr.com/xn3iud2q8	B-url
+
 Saturday	O
 Night	O
 ,	O
@@ -951,6 +997,7 @@ make	O
 a	O
 toast	O
 !	O
+
 @sardesairajdeep	B-mention
 I	O
 can	O
@@ -963,6 +1010,7 @@ after	O
 Ayodhya	B-person
 verdict	O
 .	O
+
 Rsn	O
 out	O
 of	O
@@ -982,6 +1030,7 @@ supposed	O
 to	O
 happen	O
 !!!	O
+
 @bduenas	B-mention
 @HotCARLL	B-mention
 @MxBIEson	B-mention
@@ -990,6 +1039,7 @@ happen	O
 !	O
 Today	O
 BIackMaglc	O
+
 @borneobaby	B-mention
 THAT	O
 is	O
@@ -1022,6 +1072,7 @@ wear	O
 and	O
 say	O
 !	O
+
 @jenniferehle	B-mention
 :	O
 Did	O
@@ -1033,6 +1084,7 @@ up	O
 there	O
 yesterday	O
 ?	O
+
 RT	O
 @ichloegebbie	B-mention
 :	O
@@ -1050,6 +1102,7 @@ balaclava	O
 (	O
 8	O
 )	O
+
 WHATS	O
 GOODIE	O
 EVERY1	O
@@ -1059,6 +1112,7 @@ FEELIN	O
 THE	O
 BREEZE	O
 #FRIDAY#MANIA	O
+
 I	O
 straightened	O
 my	O
@@ -1071,6 +1125,7 @@ purdy	O
 and	O
 junk	O
 :)	O
+
 May	O
 everyone	O
 who	O
@@ -1086,6 +1141,7 @@ meaningful	O
 fast	O
 !	O
 #notaboutbirthcontrol	O
+
 I	O
 just	O
 had	O
@@ -1118,6 +1174,7 @@ it	O
 a	O
 lot	O
 !	O
+
 Selling	O
 a	O
 home	O
@@ -1142,6 +1199,7 @@ sales	O
 repo	O
 ...	O
 http://bit.ly/d1xAoc	B-url
+
 RT	O
 @_MyNameBrandon_	B-mention
 @Mr_Marcell	B-mention
@@ -1171,6 +1229,7 @@ coming	O
 dwn	O
 to	O
 sam	O
+
 @iPukeRKOs	B-mention
 I	O
 cant	O
@@ -1203,6 +1262,7 @@ for	O
 20	O
 +	O
 yrs	O
+
 Anybody	O
 who	O
 waits	O
@@ -1227,6 +1287,7 @@ or	O
 d	O
 ...	O
 http://tinyurl.com/2c4wqjv	B-url
+
 RT	O
 @ArianaGrande	B-mention
 :	O
@@ -1246,6 +1307,7 @@ there	O
 :)	O
 xxxxxx	O
 #FF	O
+
 Oscar	B-person
 's	O
 new	O
@@ -1269,6 +1331,7 @@ to	O
 another	O
 yelling	O
 BuhBYYYYYE	O
+
 Pedigree	B-company
 Donates	O
 Dog	O
@@ -1293,6 +1356,7 @@ like	O
 Face	O
 ...	O
 http://bit.ly/bYWzrq	B-url
+
 @ClaireMcD22	B-mention
 I	O
 honestly	O
@@ -1321,6 +1385,7 @@ She	O
 off	O
 mon/tues	O
 ,	O
+
 @stefaniwashburn	B-mention
 Me	O
 too	O
@@ -1347,6 +1412,7 @@ salsa	O
 the	O
 best	O
 !	O
+
 I've	O
 been	O
 waiting	O
@@ -1364,6 +1430,7 @@ going	O
 How	O
 ironic	O
 .	O
+
 Reminder	O
 :	O
 One-day	O
@@ -1390,6 +1457,7 @@ Register	O
 now	O
 !	O
 http://bit.ly/a2hvAv	B-url
+
 ahhh	O
 that	O
 made	O
@@ -1405,6 +1473,7 @@ stupid	O
 like	O
 that	O
 :D	O
+
 struggled	O
 in	O
 locating	O
@@ -1423,6 +1492,7 @@ were	O
 there	O
 finally	O
 .	O
+
 Might	O
 have	O
 an	O
@@ -1436,6 +1506,7 @@ finish	O
 the	O
 decorating	O
 tomorrow	O
+
 'Do	O
 it	O
 footsoldiers	O
@@ -1467,6 +1538,7 @@ sirius	B-company
 .	O
 Xm	O
 147'	O
+
 #birdgang	O
 in	O
 full	O
@@ -1483,6 +1555,7 @@ ready	O
 will	O
 dominate	O
 !	O
+
 @Cuddle_Factory	B-mention
 will	O
 send	O
@@ -1490,6 +1563,7 @@ again	O
 tomorrow	O
 honey	O
 too	O
+
 @SashaGrey	B-mention
 i	O
 am	O
@@ -1514,6 +1588,7 @@ let	O
 me	O
 know	O
 ok	O
+
 My	O
 #twitter	O
 age	O
@@ -1533,6 +1608,7 @@ yours	O
 at	O
 http://twitter.seocoder.org/	B-url
 #twittertime	O
+
 I	O
 want	O
 it	O
@@ -1564,6 +1640,7 @@ ships	O
 next	O
 week	O
 !	O
+
 @Wale	B-mention
 I	O
 just	O
@@ -1582,6 +1659,7 @@ more	O
 about	O
 nothing	O
 better	O
+
 @Infamous__Kid	B-mention
 lol	O
 you	O
@@ -1603,6 +1681,7 @@ cut	O
 it	O
 right	O
 ha	O
+
 This	O
 week	O
 I	O
@@ -1623,6 +1702,7 @@ don't	O
 kill	O
 me	O
 .	O
+
 Quick	O
 Question	O
 :	O
@@ -1634,6 +1714,7 @@ Scratched	O
 Before	O
 ?	O
 Lls	O
+
 well	O
 my	O
 700th	O
@@ -1643,6 +1724,7 @@ was	O
 tweets	O
 ago	O
 .	O
+
 Our	O
 Favorite	O
 YouTube	B-company
@@ -1670,6 +1752,7 @@ cr	O
 ...	O
 http://bit.ly/cuy0yt	B-url
 #in	O
+
 @Desrea_JazzMane	B-mention
 L	O
 O	O
@@ -1686,6 +1769,7 @@ to	O
 (	O
 :	O
 x	O
+
 RT	O
 @JoeCienkowski	B-mention
 :	O
@@ -1715,6 +1799,7 @@ person	O
 of	O
 Jesus	B-person
 Christ	I-person
+
 como	O
 chama	O
 o	O
@@ -1726,6 +1811,7 @@ Low	O
 ,	O
 @joeylazzari	B-mention
 ??	O
+
 Spotted	O
 :	O
 Kanye	B-person
@@ -1751,6 +1837,7 @@ not	O
 before	O
 ...	O
 http://bit.ly/cSyZUi	B-url
+
 RT	O
 @aplusk	B-mention
 :	O
@@ -1771,6 +1858,7 @@ made	O
 you	O
 laugh	O
 ?	O
+
 My	O
 dad	O
 is	O
@@ -1795,6 +1883,7 @@ been	O
 so	O
 proud	O
 LOL	O
+
 &lt;	O
 3	O
 it	O
@@ -1833,6 +1922,7 @@ Sorry	O
 .	O
 Bye	O
 .	O
+
 Second-year	O
 CBs	O
 Jerraud	B-person
@@ -1853,6 +1943,7 @@ were	O
 college	O
 ...	O
 http://bit.ly/at71uZ	B-url
+
 Lots	O
 of	O
 Merlot	B-product
@@ -1880,6 +1971,7 @@ show	O
 on	O
 @BBCRadio4	B-mention
 .	O
+
 New	O
 Post	O
 :	O
@@ -1898,6 +1990,7 @@ Week	O
 Videos	O
 ]	O
 http://bit.ly/b1mqom	B-url
+
 Just	O
 waking	O
 up	O
@@ -1925,6 +2018,7 @@ on2	O
 study	O
 time	O
 ...	O
+
 Tomorrow	O
 -	O
 London	B-geo-loc
@@ -1948,6 +2042,7 @@ supportive	O
 thought	O
 waves	O
 !	O
+
 Small	B-other
 Biz	I-other
 Tech	I-other
@@ -1968,6 +2063,7 @@ features	O
 America's...	O
 http://tinyurl.com/28hd9fu	B-url
 #fb	O
+
 RT	O
 @Mickey__Rourke	B-mention
 :	O
@@ -1996,6 +2092,7 @@ under	O
 each	O
 arm	O
 ...	O
+
 you	O
 know	O
 its	O
@@ -2010,6 +2107,7 @@ you	O
 don't	O
 care	O
 .	O
+
 @divacoachdabney	B-mention
 you	O
 made	O
@@ -2022,6 +2120,7 @@ surprises	O
 for	O
 you	O
 .	O
+
 Just	O
 bought	O
 my	O
@@ -2037,6 +2136,7 @@ wait	O
 for	O
 February	O
 !	O
+
 RT	O
 @NROcorner	B-mention
 :	O
@@ -2045,6 +2145,7 @@ Constitution	B-other
 Day	I-other
 Matters	O
 :	O
+
 RT	O
 @mindykaling	B-mention
 :	O
@@ -2065,6 +2166,7 @@ is	O
 f'ing	O
 dope	O
 .	O
+
 I	O
 've	O
 got	O
@@ -2091,6 +2193,7 @@ end	O
 .	O
 -Larry	B-person
 Bird	I-person
+
 'MUSIC	O
 CHOICE	O
 JUST	O
@@ -2115,6 +2218,7 @@ FT	O
 JIM	B-person
 JONES	I-person
 )'	O
+
 @FeeninforPretty	B-mention
 making	O
 something	O
@@ -2125,6 +2229,7 @@ aint	O
 ate	O
 all	O
 day	O
+
 @XrisLastRights	B-mention
 yep	O
 well	O
@@ -2156,6 +2261,7 @@ was	O
 your	O
 day	O
 ?	O
+
 @skaffbm	B-mention
 love	O
 that	O
@@ -2173,6 +2279,7 @@ goes	O
 to	O
 richmond	B-geo-loc
 ??	O
+
 Oh	O
 yeah	O
 !	O
@@ -2199,6 +2306,7 @@ great	O
 daaaaay	O
 &lt;	O
 33	O
+
 'i	O
 really	O
 wanna	O
@@ -2207,6 +2315,7 @@ see	O
 today	O
 "	O
 /'	O
+
 On	O
 my	O
 way	O
@@ -2230,6 +2339,7 @@ Champions	I-other
 !!!!!!!	O
 Super	O
 excited	O
+
 @Strigy	B-mention
 got	O
 mine	O
@@ -2256,10 +2366,12 @@ analogue	O
 controller	O
 2	O
 ?	O
+
 Salt	O
 tasting	O
 today	O
 http://yfrog.com/07kicyj	B-url
+
 RT	O
 @TheValarium	B-mention
 :	O
@@ -2286,6 +2398,7 @@ they	O
 sell	O
 out	O
 ...	O
+
 RT	O
 @davehodg	B-mention
 :	O
@@ -2315,6 +2428,7 @@ a	O
 problem	O
 wit	O
 ...	O
+
 June	B-other
 Fest	I-other
 2010	I-other
@@ -2324,6 +2438,7 @@ Door	I-facility
 LIVE	O
 !	O
 http://fb.me/G1pof3lO	B-url
+
 This	O
 Time	O
 's	O
@@ -2343,6 +2458,7 @@ shoot	O
 ustream	O
 -	O
 http://www.cassidyhaley.com/thistime.php	B-url
+
 @iansomerhalder	B-mention
 before	O
 seeing	O
@@ -2372,6 +2488,7 @@ God	O
 of	O
 perfection	O
 !!!!	O
+
 Oh	O
 my	O
 goodness	O
@@ -2399,6 +2516,7 @@ not	O
 the	O
 case	O
 .	O
+
 @JusSimplyMee	B-mention
 I	O
 think	O
@@ -2415,6 +2533,7 @@ girl	O
 every	O
 week	O
 lol	O
+
 @RealWizKhalifa	B-mention
 I	O
 will	O
@@ -2426,6 +2545,7 @@ see	O
 u	O
 tonite	O
 :)	O
+
 volleybaltraining	O
 was	O
 super	O
@@ -2435,6 +2555,7 @@ volgende	O
 week	O
 1e	O
 wedstrijd	O
+
 Peace	O
 green	B-product
 tea	I-product
@@ -2444,6 +2565,7 @@ Happyzone	O
 !!!!	O
 :)	O
 ))))	O
+
 Comment	O
 of	O
 the	O
@@ -2458,6 +2580,7 @@ We	O
 Read	O
 You]	O
 :	O
+
 RT	O
 @OMGTotallyLegit	B-mention
 :	O
@@ -2476,6 +2599,7 @@ next	O
 day	O
 .	O
 #OMGTotallyLegit	O
+
 RT	O
 @LightCMS	B-mention
 :	O
@@ -2497,6 +2621,7 @@ or	O
 read	O
 more	O
 http://speaklight.com/iPad	B-url
+
 RT	O
 @ChicagoFire	B-mention
 :	O
@@ -2517,6 +2642,7 @@ S8	B-other
 blog	I-other
 :	O
 http://ow.ly/2G43u	B-url
+
 going	O
 to	O
 the	O
@@ -2546,6 +2672,7 @@ lets	O
 see	O
 what	O
 happens	O
+
 @YFarahat	B-mention
 @n_atalla	B-mention
 I	O
@@ -2573,6 +2700,7 @@ like	O
 water	O
 now	O
 :)	O
+
 @leahmrb	B-mention
 Same	O
 time	O
@@ -2581,6 +2709,7 @@ you	O
 silly	O
 !!	O
 #lushy	O
+
 I	O
 called	O
 my	O
@@ -2612,6 +2741,7 @@ who	O
 rose	B-person
 ?'	O
 lmao	O
+
 Sony/Bud	O
 Light	O
 3D	O
@@ -2631,6 +2761,7 @@ at	O
 http://bit.ly/9X1KP8	B-url
 #sony3d	O
 @espn	B-mention
+
 A	O
 BLISSFUL	O
 MORNING	O
@@ -2665,6 +2796,7 @@ God	O
 bless	O
 you	O
 !	O
+
 Omfg	O
 I'm	O
 bailing	O
@@ -2693,6 +2825,7 @@ I	O
 smile	O
 fucking	O
 song	O
+
 My	O
 #twitter	O
 age	O
@@ -2712,6 +2845,7 @@ yours	O
 at	O
 http://twitter.seocoder.org/	B-url
 #twittertime	O
+
 @karensuluay	B-mention
 Hyna	B-person
 the	O
@@ -2727,6 +2861,7 @@ to	O
 is	O
 tonight	O
 *tear*	O
+
 RT	O
 @TalibanTwon	B-mention
 :	O
@@ -2745,6 +2880,7 @@ Boy	O
 #LaylaFridays	O
 =	O
 ZOOOVIE	O
+
 really	O
 needs	O
 to	O
@@ -2760,6 +2896,7 @@ she	O
 heads	O
 home	O
 ...	O
+
 RT	O
 @TheOutlawz	B-mention
 :	O
@@ -2788,6 +2925,7 @@ WE	O
 FOLLOW	O
 BACK	O
 !	O
+
 were	O
 too	O
 much	O
@@ -2817,6 +2955,7 @@ like	O
 everyone	O
 else	O
 @JackieJackson5	B-mention
+
 I	O
 may	O
 have	O
@@ -2843,12 +2982,14 @@ ur	O
 kiddo	O
 w/me	O
 :)	O
+
 Every	O
 night	O
 &amp;	O
 every	O
 day	O
 !!	O
+
 Israel	B-geo-loc
 grinds	O
 to	O
@@ -2863,6 +3004,7 @@ day	O
 wwrn.org	O
 )	O
 http://bit.ly/cqlwCZ	B-url
+
 For	O
 women	O
 the	O
@@ -2890,6 +3032,7 @@ wasting	O
 his	O
 time	O
 .	O
+
 @isaccnewton7	B-mention
 call	O
 me	O
@@ -2899,6 +3042,7 @@ go	O
 out	O
 to	O
 practice	O
+
 My	O
 all	O
 time	O
@@ -2919,6 +3063,7 @@ knit	O
 some	O
 more	O
 .	O
+
 RT	O
 @Luq_Combs	B-mention
 :	O
@@ -2941,6 +3086,7 @@ I	O
 scared	O
 "	O
 #pow#pow#pow@Cowboy_Wingo	O
+
 @justinbieber	B-mention
 i	O
 just	O
@@ -2963,11 +3109,13 @@ i	O
 smile	O
 !	O
 :)	O
+
 2	O
 MORE	O
 WEEKS	O
 !	O
 XD	O
+
 I	O
 have	O
 a	O
@@ -2984,6 +3132,7 @@ tonight	O
 .	O
 Gulp	O
 .	O
+
 @miaturner	B-mention
 OOC	O
 :	O
@@ -2995,6 +3144,7 @@ today	O
 ,	O
 huh	O
 ?	O
+
 ALL	O
 TIME	O
 LOW	O
@@ -3003,6 +3153,7 @@ COMMING	O
 TO	O
 GLASGOW	B-geo-loc
 !!!!!!!!!!!!!!!!!!!	O
+
 http://yfrog.com/n6cdhzj	B-url
 Just	O
 picked	O
@@ -3027,6 +3178,7 @@ He	O
 swims	O
 here	O
 occasionally	O
+
 Still	O
 dislike	O
 Early	O
@@ -3048,6 +3200,7 @@ thoughtfully	O
 http://ow.ly/2G1Cn	B-url
 #admissions	O
 #colleges	O
+
 Day	O
 three	O
 of	O
@@ -3073,6 +3226,7 @@ if	O
 this	O
 works	O
 !	O
+
 Lederhosen	O
 ,	O
 lederhosen	O
@@ -3102,6 +3256,7 @@ a	O
 single	O
 day	O
 .	O
+
 ....	O
 today	O
 is	O
@@ -3125,6 +3280,7 @@ somewhat	O
 -	O
 SUCKS	O
 .	O
+
 @jesus_army	B-mention
 :-(	O
 Mikes	O
@@ -3149,6 +3305,7 @@ both	O
 better	O
 soon	O
 .	O
+
 @dancindeac	B-mention
 bet	O
 the	O
@@ -3160,6 +3317,7 @@ this	O
 week	O
 .	O
 ;-)	O
+
 Next	O
 week	O
 is	O
@@ -3177,6 +3335,7 @@ day	O
 on	O
 Tueday	O
 =\	O
+
 @dragonjones	B-mention
 couldn't	O
 help	O
@@ -3198,6 +3357,7 @@ a	O
 back	O
 problem	O
 .	O
+
 And	O
 #nowplaying	O
 With	B-other
@@ -3230,6 +3390,7 @@ night	O
 ,	O
 all	O
 !	O
+
 DITR	O
 REI	O
 Update	O
@@ -3250,6 +3411,7 @@ September	O
 http://bit.ly/96Zavf	B-url
 #realestate	O
 #invest	O
+
 its	O
 a	O
 good	O
@@ -3258,6 +3420,7 @@ for	O
 a	O
 murder	O
 ...	O
+
 2	O
 weeks	O
 until	O
@@ -3270,6 +3433,7 @@ excited	O
 YOU	O
 BET	O
 :D	O
+
 After	B-product
 Eventide	I-product
 (	O
@@ -3287,6 +3451,7 @@ R	O
 ...	O
 http://tinyurl.com/25e59fk	B-url
 #twilight	O
+
 @terryronald	B-mention
 Hello	O
 mate	O
@@ -3307,6 +3472,7 @@ Hows	O
 the	O
 book	O
 ?	O
+
 even	O
 better	O
 than	O
@@ -3314,6 +3480,7 @@ cocktail	O
 friday	O
 !	O
 http://is.gd/ffDb9	B-url
+
 As	O
 women	O
 pay	O
@@ -3342,6 +3509,7 @@ don't	O
 like	O
 it	O
 .	O
+
 @xensweetie	B-mention
 Ohhh	O
 we	O
@@ -3359,6 +3527,7 @@ on	O
 Friday	O
 yet	O
 ?	O
+
 Support	O
 Your	O
 Local	O
@@ -3371,6 +3540,7 @@ days	O
 left	O
 !	O
 http://post.ly/yCqH	B-url
+
 The	O
 #gothic	O
 Daily	O
@@ -3388,6 +3558,7 @@ http://bit.ly/aQOoSP	B-url
 contributions	O
 today	O
 )	O
+
 heheRT	O
 @yuuuiee	B-mention
 :	O
@@ -3416,6 +3587,7 @@ before	O
 !	O
 Dejavu	O
 :-p	O
+
 RT	O
 @ZodiacFacts	B-mention
 :	O
@@ -3441,6 +3613,7 @@ and	O
 keeping	O
 an	O
 ...	O
+
 the	O
 day	O
 you	O
@@ -3457,6 +3630,7 @@ birth	O
 to	O
 a	O
 pig	O
+
 @Lissa_Lise	B-mention
 they're	O
 looking	O
@@ -3486,6 +3660,7 @@ time	O
 to	O
 breathe	O
 .	O
+
 Free	O
 Speech	O
 Friday	O
@@ -3502,6 +3677,7 @@ game	O
 radio.woai.com	O
 k/w	O
 pags	O
+
 @hannibal_flow	B-mention
 I	O
 got	O
@@ -3510,6 +3686,7 @@ pics	O
 for	O
 days	O
 lol	O
+
 Copa	B-other
 Sudamericana	I-other
 #2010	O
@@ -3518,6 +3695,7 @@ Thursday	O
 Round-Up	O
 -	O
 http://newzfor.me/?754c	B-url
+
 Salty	O
 i	O
 broke	O
@@ -3530,6 +3708,7 @@ Johnson	I-person
 necklaces	O
 today	O
 !!	O
+
 I	O
 wanna	O
 go	O
@@ -3554,6 +3733,7 @@ years	O
 make	O
 it	O
 happen	O
+
 @LulaBurlesque	B-mention
 You're	O
 in	O
@@ -3574,6 +3754,7 @@ Find	O
 yourself	O
 here	O
 http://bit.ly/EllenMosaic	B-url
+
 Hit	O
 word	O
 count	O
@@ -3597,6 +3778,7 @@ dance*	O
 #amwriting	O
 #havewritten-yay	O
 !	O
+
 SCOTT	B-person
 WEILAND	I-person
 Announces	O
@@ -3622,6 +3804,7 @@ March	O
 20	O
 ...	O
 http://bit.ly/ayLf9C	B-url
+
 QUAKE	O
 :	O
 Mag	O
@@ -3646,6 +3829,7 @@ Christchurch	B-geo-loc
 .	O
 http://tinyurl.com/265n4mx	B-url
 #eqnz	O
+
 Long	O
 18k	O
 run	O
@@ -3681,6 +3865,7 @@ belched	O
 Loudly	O
 .	O
 +1	O
+
 @_AlexLight_	B-mention
 WHAAAA	O
 ?	O
@@ -3696,6 +3881,7 @@ with	O
 the	O
 Wolstenbeast	O
 ?!	O
+
 @jimmiebjr	B-mention
 Nope	O
 .	O
@@ -3715,6 +3901,7 @@ sacrificed	O
 if	O
 necessary	O
 .	O
+
 @wildflower94	B-mention
 hw	O
 =/	O
@@ -3731,6 +3918,7 @@ guna	O
 b	O
 a	O
 mess	O
+
 Vintage	O
 sports	O
 cars	O
@@ -3744,6 +3932,7 @@ time	O
 http://bit.ly/aZCBOm	B-url
 #classic	O
 #cars	O
+
 ..	O
 @Davman91	B-mention
 Thinks	O
@@ -3758,6 +3947,7 @@ Line	O
 Wrong	O
 ...	O
 ;)	O
+
 Dear	O
 sun	O
 ,	O
@@ -3783,6 +3973,7 @@ break	O
 Love	O
 ,	O
 Mackenna	B-person
+
 Showering	O
 real	O
 reallll	O
@@ -3803,6 +3994,7 @@ I'm	O
 in	O
 the	O
 shower	O
+
 @lessafelipe	B-mention
 Vai	O
 no	O
@@ -3814,6 +4006,7 @@ Milk	O
 Today	O
 hoje	O
 ?	O
+
 @mynameisraven	B-mention
 get	O
 on	O
@@ -3825,6 +4018,7 @@ you	O
 see	O
 this	O
 .	O
+
 Let	O
 's	O
 all	O
@@ -3847,6 +4041,7 @@ real	O
 dedicated	O
 fan	O
 .	O
+
 chinese	O
 food	O
 ..	O
@@ -3864,6 +4059,7 @@ either	O
 tomorrow	O
 or	O
 sunday	O
+
 time	O
 to	O
 get	O
@@ -3872,6 +4068,7 @@ the	O
 PJ	O
 Bottoms	O
 ;D	O
+
 Report	O
 :	O
 Michael	B-person
@@ -3883,6 +4080,7 @@ Eagles	B-sportsteam
 on	O
 Sunday	O
 http://t.co/UqXcSXT	B-url
+
 @milaceccato	B-mention
 hahah	O
 yeah	O
@@ -3908,6 +4106,7 @@ not	O
 sure	O
 yet(	O
 ;	O
+
 How	O
 many	O
 times	O
@@ -3941,6 +4140,7 @@ do	O
 with	O
 banjos	O
 .	O
+
 RT	O
 @GreatestQuotes	B-mention
 :	O
@@ -3969,6 +4169,7 @@ with	O
 it	O
 ."	O
 ...	O
+
 NEW	O
 BLOG	O
 -	O
@@ -4000,6 +4201,7 @@ blog	O
 ,	O
 ...	O
 http://bit.ly/9QkhUC	B-url
+
 Friday	O
 deal	O
 !	O
@@ -4017,6 +4219,7 @@ it	O
 out	O
 !	O
 http://bit.ly/cDXN4	B-url
+
 RT	O
 @ZodiacFacts	B-mention
 :	O
@@ -4039,6 +4242,7 @@ up	O
 with	O
 them	O
 .	O
+
 @toukie_s	B-mention
 i'mgoing	O
 to	O
@@ -4052,6 +4256,7 @@ well	O
 see	O
 you	O
 tomorrow	O
+
 I	O
 spent	O
 my	O
@@ -4082,6 +4287,7 @@ job	O
 Sittin	O
 '	O
 BABIES	O
+
 RT	O
 @BadAssNigerian	B-mention
 :	O
@@ -4098,6 +4304,7 @@ week	O
 &lt;	O
 WHOOOOP	O
 !!!	O
+
 Check	O
 this	O
 video	O
@@ -4122,6 +4329,7 @@ wait	O
 to	O
 see	O
 this	O
+
 Social	O
 networking	O
 site	O
@@ -4138,6 +4346,7 @@ announced	O
 21	O
 July	O
 http://ow.ly/20ATc	B-url
+
 RT	O
 @BeliebInCodyyy	B-mention
 :	O
@@ -4159,6 +4368,7 @@ of	O
 you143	O
 &lt;	O
 3	O
+
 looks	O
 like	O
 its	O
@@ -4174,6 +4384,7 @@ is	O
 in	O
 tomorrow	O
 !	O
+
 Called	O
 my	O
 homie	O
@@ -4191,6 +4402,7 @@ on	O
 Thursday	O
 .....	O
 #HoodRatsNeedLoveToo	O
+
 @bowlerhatlover	B-mention
 Been	O
 trying	O
@@ -4206,6 +4418,7 @@ for	O
 years	O
 .	O
 http://hollisframpton.org.uk/	B-url
+
 GUYS	O
 IF	O
 YOU	O
@@ -4235,6 +4448,7 @@ SEE	O
 THEM	O
 !:	O
 D	O
+
 @dena33	B-mention
 have	O
 a	O
@@ -4252,6 +4466,7 @@ joining	O
 eatery	O
 forces	O
 .	O
+
 RT	O
 @jakeandamir	B-mention
 :	O
@@ -4281,6 +4496,7 @@ what	O
 's	O
 twitter	B-company
 ?&quot;	O
+
 sfitzy93	B-person
 asked	O
 :	O
@@ -4303,6 +4519,7 @@ the	O
 day	O
 ?	O
 http://tumblr.com/xkdiufb81	B-url
+
 moving	O
 to	O
 the	O
@@ -4311,6 +4528,7 @@ in	O
 approx	O
 12	O
 days	O
+
 RT	O
 @LilTwist	B-mention
 :	O
@@ -4328,6 +4546,7 @@ on	O
 Ustream	B-company
 later	O
 tonight	O
+
 Mac	O
 Sync	O
 Completed	O
@@ -4339,6 +4558,7 @@ September	O
 ,	O
 5:00	O
 pm	O
+
 @jodieboulger	B-mention
 Ehe	O
 good	O
@@ -4348,6 +4568,7 @@ you	O
 tomorrow	O
 dude	O
 !	O
+
 @millyTW__	B-mention
 night	O
 :)	O
@@ -4366,6 +4587,7 @@ mood	O
 for	O
 writing	O
 ;)	O
+
 Blades	B-sportsteam
 trade	O
 Travis	B-person
@@ -4390,6 +4612,7 @@ remain	O
 #yxe	O
 #Blades	O
 #WHL	O
+
 Let	O
 's	O
 go	O
@@ -4416,6 +4639,7 @@ in	O
 Happy	B-geo-loc
 Valley	I-geo-loc
 !	O
+
 A	O
 week	O
 in	O
@@ -4437,6 +4661,7 @@ a	O
 accent	O
 again	O
 .	O
+
 Wanna	O
 see	O
 ya	O
@@ -4476,6 +4701,7 @@ Luv	O
 u	O
 &lt;	O
 3	O
+
 RT	O
 @TechZader	B-mention
 :	O
@@ -4485,6 +4711,7 @@ Due	O
 in	O
 January	O
 http://bit.ly/cw730s	B-url
+
 No	O
 Good	O
 Punk	O
@@ -4500,6 +4727,7 @@ steals	O
 her	O
 purse	O
 http://lsnlw.com/t/4188153892/	B-url
+
 @justinbieber	B-mention
 I	O
 have	O
@@ -4523,6 +4751,7 @@ kisses	O
 on	O
 the	O
 chin	O
+
 RT	O
 @GreatestQuotes	B-mention
 :	O
@@ -4551,6 +4780,7 @@ with	O
 it	O
 ."	O
 ...	O
+
 Ducks	B-sportsteam
 sign	O
 LW	B-person
@@ -4565,6 +4795,7 @@ Mercury	I-other
 News	I-other
 http://dlvr.it/5RcvP	B-url
 #ANADucks	O
+
 RT	O
 @JR_Swish	B-mention
 :	O
@@ -4582,6 +4813,7 @@ words	O
 damn	O
 !	O
 #shhhhhhh	O
+
 The	O
 day	O
 you	O
@@ -4610,6 +4842,7 @@ our	O
 love	O
 forever	O
 .	O
+
 RT	O
 @justinbieber	B-mention
 :	O
@@ -4638,6 +4871,7 @@ xxxxxxx	O
 =	O
 HI	O
 !	O
+
 just	O
 about	O
 off	O
@@ -4661,6 +4895,7 @@ the	O
 mail	O
 today	O
 .	O
+
 @LesColyer	B-mention
 Who	O
 do	O
@@ -4677,6 +4912,7 @@ news	I-other
 weeks	O
 ago	O
 #checkmeout	O
+
 [	O
 GigaOM	O
 ]	O
@@ -4702,6 +4938,7 @@ protection	O
 scheme	O
 ...	O
 http://bit.ly/blWf0e	B-url
+
 Relieved	O
 that	O
 the	O
@@ -4721,6 +4958,7 @@ sleep	O
 in	O
 tomorrow	O
 !	O
+
 Good	O
 day	O
 looking	O
@@ -4730,6 +4968,7 @@ n	O
 usb	O
 drivers	O
 http://f.ast.ly/DfxRf	B-url
+
 Buffs	O
 FB	O
 :	O
@@ -4757,6 +4996,7 @@ losses	O
 Updates	O
 on	O
 LCL	B-company
+
 @CarolynAWebster	B-mention
 I'm	O
 okay	O
@@ -4765,6 +5005,7 @@ Had	O
 better	O
 days	O
 .	O
+
 RT	O
 @KaspervanKooten	B-mention
 Naast	O
@@ -4795,6 +5036,7 @@ do	O
 .	O
 Koffi	O
 ...	O
+
 @ashhleybrookee	B-mention
 it	O
 may	O
@@ -4805,6 +5047,7 @@ but	O
 it	O
 works	O
 .	O
+
 @therowdydog	B-mention
 Me	O
 neither	O
@@ -4839,6 +5082,7 @@ have	O
 a	O
 friend	O
 !	O
+
 Do	O
 you	O
 ever	O
@@ -4864,6 +5108,7 @@ don't.	O
 Well	O
 ...	O
 http://fb.me/xKyLBInS	B-url
+
 How	O
 sweet	O
 !	O
@@ -4889,6 +5134,7 @@ other	O
 day	O
 was	O
 #pricelesstome	O
+
 RT	O
 @FamousWomen	B-mention
 :	O
@@ -4909,6 +5155,7 @@ away	O
 their	O
 power	O
 .	O
+
 @ConorMc_Ginty	B-mention
 GaGa	B-person
 played	O
@@ -4933,6 +5180,7 @@ her	O
 for	O
 that	O
 .	O
+
 Stop	O
 by	O
 teh	O
@@ -4959,6 +5207,7 @@ FHSU	B-sportsteam
 foam	O
 finger	O
 .	O
+
 @TakeMeDownCHRIS	B-mention
 he	O
 didnt	O
@@ -4982,6 +5231,7 @@ to	O
 yeah3x	O
 soon	O
 !	O
+
 RT	O
 @Rammsies	B-mention
 :	O
@@ -5008,6 +5258,7 @@ made	O
 you	O
 laugh	O
 ?	O
+
 Whomever	O
 said	O
 ,	O
@@ -5039,12 +5290,14 @@ one	O
 time	O
 #myhandismulicolored	O
 #Pretty	O
+
 no	O
 matter	O
 how	O
 long	O
 I'll	O
 wait	O
+
 EVENT	O
 --	O
 &gt;	O
@@ -5068,6 +5321,7 @@ to	O
 by	O
 6:59	O
 pm	O
+
 The	B-musicartist
 Get	I-musicartist
 Up	I-musicartist
@@ -5100,6 +5354,7 @@ Ever	O
 So	O
 listen	O
 .	O
+
 @DrHubaEvaluator	B-mention
 Not	O
 long	O
@@ -5128,6 +5383,7 @@ I	O
 did	O
 it	O
 +	O
+
 Well	O
 ,	O
 after	O
@@ -5156,6 +5412,7 @@ much	O
 start	O
 Monday	O
 :-)	O
+
 @ToriVicotia	B-mention
 aaahhh	O
 !	O
@@ -5175,6 +5432,7 @@ yourself	O
 !	O
 Haha	O
 !	O
+
 YEAH	O
 !	O
 No	O
@@ -5205,6 +5463,7 @@ request	O
 sorgelaw@yahoo	O
 .	O
 com	O
+
 It	O
 might	O
 just	O
@@ -5229,6 +5488,7 @@ cool	O
 wit	O
 me	O
 .	O
+
 Watching	O
 The	B-movie
 Room	I-movie
@@ -5251,6 +5511,7 @@ genius	O
 .	O
 #theroom	O
 #tommywiseau	O
+
 RT	O
 @ewangri	B-mention
 :	O
@@ -5282,6 +5543,7 @@ with	O
 some	O
 boy	O
 .	O
+
 #NowPlaying	O
 Tomorrow	O
 always	O
@@ -5292,6 +5554,7 @@ comes	O
 #NiceSong	O
 (	O
 :	O
+
 @edryall	B-mention
 @sjo_m	B-mention
 you	O
@@ -5303,6 +5566,7 @@ few	O
 years	O
 now	O
 #really27	O
+
 was	O
 WAITING	O
 for	O
@@ -5331,6 +5595,7 @@ dawg	O
 wasted	O
 my	O
 time	O
+
 RT	O
 @its_QuiB	B-mention
 @jperiod1015	B-mention
@@ -5344,6 +5609,7 @@ week	O
 lol	O
 bet	O
 !	O
+
 Opted	O
 for	O
 pants	O
@@ -5362,6 +5628,7 @@ the	O
 pumpkin	O
 beers	O
 !	O
+
 RT	O
 @LilTwist	B-mention
 :	O
@@ -5379,6 +5646,7 @@ on	O
 Ustream	B-company
 later	O
 tonight	O
+
 @matttraynor	B-mention
 ME	O
 !	O
@@ -5388,6 +5656,7 @@ november	O
 show	O
 (	O
 :	O
+
 Beautiful	O
 day	O
 in	O
@@ -5402,6 +5671,7 @@ the	O
 Florida	B-geo-loc
 heat	O
 .	O
+
 Small	O
 Biz	O
 Tech	O
@@ -5422,6 +5692,7 @@ features	O
 America's...	O
 http://tinyurl.com/28hd9fu	B-url
 #fb	O
+
 Music	O
 &amp;	O
 More	O
@@ -5433,6 +5704,7 @@ Sep	O
 0	O
 http://goo.gl/fb/5CBjZ	B-url
 #FABreality	O
+
 RT	O
 @relentless1323	B-mention
 :	O
@@ -5466,6 +5738,7 @@ U	O
 just	O
 showed	O
 ...	O
+
 Someone	O
 just	O
 started	O
@@ -5480,8 +5753,10 @@ something	O
 .	O
 There	O
 .	O
+
 Welcome	O
 Saturday	O
+
 I	O
 have	O
 lost	O
@@ -5501,6 +5776,7 @@ loved	O
 is	O
 now	O
 gone	O
+
 @Alleycat17	B-mention
 HAPPY	O
 BIRTHDAY	O
@@ -5516,6 +5792,7 @@ day	O
 !!!	O
 :D	O
 .	O
+
 Good	O
 start	O
 for	O
@@ -5543,6 +5820,7 @@ until	O
 '	O
 unseen	O
 '	O
+
 Stoked	O
 about	O
 the	O
@@ -5566,6 +5844,7 @@ time	O
 tomorrow	O
 with	O
 @jeffsyourhero	B-mention
+
 Use	O
 My	O
 Shopping	O
@@ -5584,6 +5863,7 @@ it	O
 out	O
 here	O
 http://bit.ly/cawTJF	B-url
+
 ;	O
 I	O
 can	O
@@ -5605,6 +5885,7 @@ here	O
 I	O
 come	O
 !	O
+
 I	O
 hope	O
 you	O
@@ -5635,6 +5916,7 @@ in	O
 your	O
 life	O
 .	O
+
 RT	O
 @nickjonas	B-mention
 :	O
@@ -5648,6 +5930,7 @@ a	O
 beautiful	O
 day	O
 .	O
+
 After	O
 work	O
 I'm	O
@@ -5661,6 +5944,7 @@ then	O
 doing	O
 yoga	O
 .	O
+
 looking	O
 forward	O
 to	O
@@ -5676,6 +5960,7 @@ irish	O
 on	O
 sunday	O
 .	O
+
 if	O
 i	O
 hit	O
@@ -5692,6 +5977,7 @@ frickin	O
 '	O
 pissed	O
 .	O
+
 Although	O
 ,	O
 three	O
@@ -5707,6 +5993,7 @@ this	O
 .	O
 #cantdecide	O
 #wilty	O
+
 Q	O
 :	O
 If	O
@@ -5724,6 +6011,7 @@ A	O
 Metallica	B-musicartist
 .:	O
 http://chatter.com/ask-me-anything/kt2yo	B-url
+
 &quot;	O
 Just	O
 when	O
@@ -5741,6 +6029,7 @@ in	O
 -Summer	O
 #Vancouver	O
 #summerstill	O
+
 Not	O
 only	O
 is	O
@@ -5760,6 +6049,7 @@ of	O
 #StarWars	B-tvshow
 #TheCloneWars	I-tvshow
 !!	O
+
 Best	O
 wishes	O
 to	O
@@ -5781,9 +6071,11 @@ weekend	O
 Go	O
 band	O
 !	O
+
 @BEHINDpleasure	B-mention
 October	O
 29th	O
+
 RT	O
 @momswithapps	B-mention
 :	O
@@ -5805,6 +6097,7 @@ by	O
 @snowglobemaker	B-mention
 )	O
 #appfriday	O
+
 With	O
 Kirsten	B-person
 (	O
@@ -5814,6 +6107,7 @@ to	O
 Dicks	B-facility
 tonight	O
 .	O
+
 @demhot	B-mention
 I	O
 hate	O
@@ -5834,6 +6128,7 @@ least	O
 .	O
 no	O
 joke	O
+
 @TheEllenShow	B-mention
 #AskEllen	O
 Hi	O
@@ -5860,6 +6155,7 @@ so	O
 much	O
 !	O
 Xo	O
+
 :	O
 Dan	B-person
 is	O
@@ -5884,6 +6180,7 @@ to	O
 spon	O
 http://tinyurl.com/364pkdn	B-url
 http://bit.ly/cJfTJ8	B-url
+
 gym	O
 tonight	O
 because	O
@@ -5903,6 +6200,7 @@ of	O
 working	O
 out	O
 #fb	O
+
 Haha	O
 watching	O
 @littleradge	B-mention
@@ -5924,6 +6222,7 @@ big	O
 time	O
 Liam	B-person
 !	O
+
 Boo	O
 Boo	O
 ,	O
@@ -5942,6 +6241,7 @@ a	O
 wonderful	O
 baby	O
 .	O
+
 John	B-person
 Acuff	I-person
 joined	O
@@ -5972,6 +6272,7 @@ him	O
 all	O
 the	O
 best	O
+
 @darthsunshine	B-mention
 Wheeee	O
 !!	O
@@ -5997,6 +6298,7 @@ before	O
 class	O
 .	O
 @CaMeaux	B-mention
+
 @x_mayy_x	B-mention
 tu	O
 vai	O
@@ -6004,11 +6306,13 @@ no	O
 show	O
 may	O
 ?	O
+
 Movies	O
 Tonight	O
 ?	O
 (	O
 :	O
+
 @mfeige	B-mention
 it	O
 's	O
@@ -6023,6 +6327,7 @@ that	O
 a	O
 thing	O
 .	O
+
 Time	O
 magazine	O
 wrote	O
@@ -6035,6 +6340,7 @@ touch	O
 is	O
 for	O
 fags	O
+
 Yup	O
 ,	O
 it	O
@@ -6057,6 +6363,7 @@ it	O
 sheer	O
 bliss	O
 :)	O
+
 @sefronia	B-mention
 we	O
 haven't	O
@@ -6085,6 +6392,7 @@ need	O
 pet	O
 toad	O
 .	O
+
 It	O
 's	O
 official	O
@@ -6116,6 +6424,7 @@ it	O
 was	O
 fantastic	O
 .	O
+
 @CHRIS_Daughtry	B-mention
 Aw	O
 ur	O
@@ -6147,6 +6456,7 @@ don't	O
 like	O
 my	O
 stuff	O
+
 @chrislhayes	B-mention
 That	O
 's	O
@@ -6168,6 +6478,7 @@ Completely	O
 useless	O
 those	O
 .	O
+
 @rach22uk_OM	B-mention
 Aaaaah	O
 ,	O
@@ -6196,6 +6507,7 @@ and	O
 his	O
 inappropriate	O
 touching	O
+
 looking	O
 forward	O
 to	O
@@ -6211,6 +6523,7 @@ irish	O
 on	O
 sunday	O
 .	O
+
 10	O
 Things	O
 You	O
@@ -6226,6 +6539,7 @@ Mixed	O
 Bag	O
 ]	O
 http://bit.ly/9vZOUc	B-url
+
 Today	O
 was	O
 awesome	O
@@ -6236,6 +6550,7 @@ get	O
 to	O
 relax	O
 :)	O
+
 RT	O
 @wkeving	B-mention
 :	O
@@ -6261,6 +6576,7 @@ day	O
 in	O
 Sept	O
 http://bit.ly/SDcontest	B-url
+
 Thank	O
 God	O
 it	O
@@ -6274,6 +6590,7 @@ needed	O
 this	O
 .	O
 :-)	O
+
 @aprildenay	B-mention
 Quit	O
 messing	O
@@ -6298,6 +6615,7 @@ bleeding	O
 goober	O
 head	O
 !	O
+
 Thanks	O
 and	O
 I	O
@@ -6325,6 +6643,7 @@ Enjoy	O
 b	O
 safe	O
 !	O
+
 @themayorpete	B-mention
 I	O
 split	O
@@ -6336,6 +6655,7 @@ SF	B-geo-loc
 and	O
 San	B-geo-loc
 Mateo	I-geo-loc
+
 RT	O
 @Yarcom	B-mention
 :	O
@@ -6358,6 +6678,7 @@ west	O
 coast	O
 too	O
 .	O
+
 @weezywiii	B-mention
 yes	O
 i	O
@@ -6367,6 +6688,7 @@ scouts	O
 dont	O
 smoke	O
 week	O
+
 Wonder	O
 what	O
 the	O
@@ -6381,6 +6703,7 @@ Tre	O
 's	O
 Penis	O
 ?	O
+
 Hey	O
 ....	O
 my	O
@@ -6392,6 +6715,7 @@ one	O
 month	O
 !!!	O
 :D	O
+
 FRIDAY	O
 ....	O
 home	O
@@ -6402,6 +6726,7 @@ wanna	O
 join	O
 me	O
 ??	O
+
 27	O
 followers	O
 !	O
@@ -6413,6 +6738,7 @@ goal	O
 for	O
 today	O
 !	O
+
 My	O
 mama	O
 just	O
@@ -6430,6 +6756,7 @@ so	O
 much	O
 better	O
 !	O
+
 @lilwhitebear	B-mention
 @GrouchoDuke	B-mention
 I'm	O
@@ -6455,6 +6782,7 @@ an	O
 awesome	O
 book	O
 !	O
+
 miren	O
 el	O
 video0	O
@@ -6471,6 +6799,7 @@ ME	O
 GUSTA	O
 D	O
 :	O
+
 RT	O
 @SteevoSupremo	B-mention
 :	O
@@ -6491,6 +6820,7 @@ http://twitpic.com/2oeark	B-url
 SPECIAL	O
 PERF	O
 ...	O
+
 @LightCMS	B-mention
 over	O
 6000	O
@@ -6522,6 +6852,7 @@ I	O
 will	O
 win	O
 lol	O
+
 @AyeoKitty	B-mention
 ill	O
 txt	O
@@ -6539,6 +6870,7 @@ hold	O
 of	O
 my	O
 phone	O
+
 @Sophieeander	B-mention
 will	O
 ..	O
@@ -6570,6 +6902,7 @@ for	O
 u	O
 ..	O
 !!	O
+
 RT	O
 @GdnPolitics	B-mention
 :	O
@@ -6605,6 +6938,7 @@ my	O
 turn	O
 next	O
 "	O
+
 No	O
 one	O
 cares	O
@@ -6633,6 +6967,7 @@ musical	O
 or	O
 personal	O
 ?	O
+
 OK	O
 IMMA	O
 ASK	O
@@ -6658,6 +6993,7 @@ OUT	O
 WITH	O
 HER	O
 ????	O
+
 @Cortney_plus2	B-mention
 ding	O
 ding	O
@@ -6686,6 +7022,7 @@ next	O
 nap	O
 time	O
 .	O
+
 Because	O
 maybe	O
 You're	O
@@ -6703,6 +7040,7 @@ all	O
 You're	O
 my	O
 wonderwall	O
+
 @masalaskeptic	B-mention
 that	O
 's	O
@@ -6733,10 +7071,12 @@ did	O
 theatre	O
 work	O
 .	O
+
 Whats	O
 the	O
 plan	O
 tonight	O
+
 #FF	O
 THE	O
 FUTURE	O
@@ -6755,6 +7095,7 @@ TIME	O
 FAVS	O
 ....	O
 #ReallyDoe	O
+
 RT	O
 @NickSilly	B-mention
 :	O
@@ -6784,6 +7125,7 @@ Band	I-musicartist
 http	B-url
 :/	O
 ...	O
+
 every	O
 year	O
 your	O
@@ -6797,6 +7139,7 @@ in	O
 trouble	O
 smdh	O
 #doinme	O
+
 RT	O
 @zahrock12	B-mention
 :	O
@@ -6805,6 +7148,7 @@ yeah	O
 its	O
 FRIDAY	O
 !!	O
+
 @OGOchoCinco	B-mention
 ocho	O
 you	O
@@ -6826,6 +7170,7 @@ the	O
 past	O
 2	O
 years	O
+
 @Kirstyjarvie	B-mention
 yesss	O
 !!!!	O
@@ -6834,6 +7179,7 @@ off	O
 after	O
 6	O
 :)	O
+
 RT	O
 @rockerfuckerak	B-mention
 :	O
@@ -6865,6 +7211,7 @@ that	O
 's	O
 when	O
 ...	O
+
 She	O
 should	O
 nom	O
@@ -6882,11 +7229,13 @@ tired	O
 that	O
 is	O
 .	O
+
 Easy	O
 A	O
 tonight	O
 .	O
 WOOOO	O
+
 RT	O
 @robmoysey	B-mention
 Eyeopener	B-sportsteam
@@ -6911,6 +7260,7 @@ brooms	O
 #Ryerson	O
 @RUQuidditch	B-mention
 #Rams	O
+
 We	O
 were	O
 all	O
@@ -6939,6 +7289,7 @@ I	O
 love	O
 Fridays	O
 .	O
+
 RT	O
 @refuel_bar	B-mention
 :	O
@@ -6964,6 +7315,7 @@ http://bit.ly/62Gs3X	B-url
 for	O
 details	O
 .	O
+
 @geek	B-mention
 @borkware	B-mention
 Somehow	O
@@ -6989,6 +7341,7 @@ wipe	O
 or	O
 downgrade	O
 .	O
+
 Surely	O
 mags	O
 will	O
@@ -7012,6 +7365,7 @@ more	O
 jail	O
 time	O
 http://ow.ly/2G3R2	B-url
+
 RT	O
 @chelseakent	B-mention
 :	O
@@ -7024,6 +7378,7 @@ Cafe	I-facility
 tonight	O
 !	O
 :)	O
+
 RT	O
 @jeyyounit11	B-mention
 :	O
@@ -7052,6 +7407,7 @@ was	O
 talking	O
 abou	O
 ...	O
+
 I	O
 'm	O
 tired	O
@@ -7059,6 +7415,7 @@ after	O
 school	O
 today	O
 !	O
+
 @zfarmville	B-mention
 funnyordie	O
 :	O
@@ -7081,6 +7438,7 @@ after	O
 midnight	O
 .	O
 http:///5dkkZ	B-url
+
 Why	O
 hate	O
 on	O
@@ -7108,6 +7466,7 @@ yourself	O
 cuz	O
 ur	O
 losers	O
+
 Massive	O
 B-stock	O
 list	O
@@ -7122,6 +7481,7 @@ out	O
 here	O
 :	O
 http://soniccircus.com/September-B-Stock-List	B-url
+
 DUDE	O
 I	O
 CAN	O
@@ -7143,6 +7503,7 @@ LOVE	O
 THESE	O
 MOVIES	O
 !	O
+
 #Random	O
 But	O
 Why	O
@@ -7171,6 +7532,7 @@ suppose	O
 to	O
 go	O
 "	O
+
 The	B-musicartist
 Maccabees	I-musicartist
 are	O
@@ -7191,6 +7553,7 @@ all	O
 of	O
 them	O
 .	O
+
 twenty-four	O
 days	O
 for	O
@@ -7198,6 +7561,7 @@ Costa	B-other
 do	I-other
 Sauipe	I-other
 *-*	O
+
 @MiSS_SOTO	B-mention
 I	O
 think	O
@@ -7208,6 +7572,7 @@ I'm	O
 gonna	O
 be	O
 there	O
+
 @Beauty_NsideOut	B-mention
 when	O
 i	O
@@ -7221,6 +7586,7 @@ to	O
 sleep	O
 !	O
 #Crazy	O
+
 @carolermp	B-mention
 ;)	O
 did	O
@@ -7235,6 +7601,7 @@ other	O
 day	O
 ?	O
 ;)	O
+
 RT	O
 @JBieber_isHOT	B-mention
 :	O
@@ -7252,6 +7619,7 @@ World	B-other
 War	I-other
 3	I-other
 !!!!!!	O
+
 If	O
 Partner	O
 left	O
@@ -7284,6 +7652,7 @@ time	O
 with	O
 BB	B-person
 .	O
+
 PLANO	B-other
 BALLOON	I-other
 FESTIVAL	I-other
@@ -7305,6 +7674,7 @@ Festival	I-other
 2	O
 ...	O
 http://tinyurl.com/22kg6uz	B-url
+
 Maikes	O
 hair	O
 .	O
@@ -7333,6 +7703,7 @@ a	O
 day	O
 .;	O
 )	O
+
 The	B-facility
 Metro	I-facility
 Sept	O
@@ -7353,6 +7724,7 @@ me	O
 fa	O
 ur	O
 tickets	O
+
 @x_yesenia	B-mention
 me	O
 too	O
@@ -7370,6 +7742,7 @@ this	O
 week	O
 (	O
 :	O
+
 Tonight	O
 is	O
 Theeeeeeeeeee	O
@@ -7381,6 +7754,7 @@ Stefani	I-person
 voice*	O
 :]	O
 .	O
+
 I	O
 love	O
 listening	O
@@ -7391,6 +7765,7 @@ i	O
 know	O
 the	O
 truth	O
+
 @Elcartoonifyer	B-mention
 really	O
 ?	O
@@ -7404,6 +7779,7 @@ there	O
 tonight	O
 too	O
 ...	O
+
 Iwebslog	O
 .	O
 com	O
@@ -7427,6 +7803,7 @@ next	O
 ...	O
 http://l.mytr.in/aQn2Kg	B-url
 #Blog	O
+
 Its	O
 3	O
 o'clock	O
@@ -7448,6 +7825,7 @@ meatloaf	B-person
 at	O
 karoke	O
 .	O
+
 @glasgirl	B-mention
 Lol	O
 .	O
@@ -7458,6 +7836,7 @@ today	O
 ,	O
 love	O
 ?	O
+
 Saturday	O
 September	O
 18th	O
@@ -7480,6 +7859,7 @@ in	O
 da	O
 building	O
 &quot;	O
+
 First	O
 week	O
 of	O
@@ -7495,6 +7875,7 @@ moody	O
 and	O
 tired	O
 !	O
+
 RT	O
 @ChuckMetcalf	B-mention
 :	O
@@ -7522,6 +7903,7 @@ of	O
 the	O
 show	O
 .	O
+
 Season	O
 3	O
 of	O
@@ -7540,6 +7922,7 @@ High	I-facility
 School	I-facility
 graduates	O
 .	O
+
 @RiffTrax	B-mention
 I've	O
 suffered	O
@@ -7566,11 +7949,13 @@ made	O
 me	O
 very	O
 happy	O
+
 every	O
 time	O
 u	O
 smile	O
 =)	O
+
 Why	O
 Your	O
 Homepage	O
@@ -7583,6 +7968,7 @@ Think	O
 http://t.co/dNyFfPP	B-url
 via	O
 @TMGmedia	B-mention
+
 RT	O
 @ddockett	B-mention
 :	O
@@ -7610,6 +7996,7 @@ probably	O
 figure	O
 that	O
 out	O
+
 @godsgirl8494	B-mention
 can	O
 u	O
@@ -7625,6 +8012,7 @@ day	O
 &lt;	O
 3	O
 8	O
+
 Just	O
 casually	O
 stalking	O
@@ -7635,6 +8023,7 @@ tomorrow	O
 ....	O
 NO	O
 BIGGIE	O
+
 Ok	O
 off	O
 to	O
@@ -7650,6 +8039,7 @@ HAVE	O
 WON	O
 A	O
 T-SHIRT	O
+
 RT	O
 @cityofcalgary	B-mention
 :	O
@@ -7667,6 +8057,7 @@ Canada	B-geo-loc
 #yyc	O
 #sportsday	O
 http://ow.ly/2G4sf	B-url
+
 @Jfordj12	B-mention
 Wee	O
 need	O
@@ -7677,11 +8068,13 @@ it	O
 happen	O
 on	O
 Sunday	O
+
 8hr	O
 shift	O
 today	O
 yuck	O
 lol	O
+
 changed	O
 mii	O
 twitta	O
@@ -7709,6 +8102,7 @@ now	O
 time	O
 for	O
 church	O
+
 @Zerinaakers	B-mention
 talking	O
 about	O
@@ -7735,12 +8129,14 @@ i	O
 should	O
 know	O
 something	O
+
 Can't	O
 trust	O
 anyone	O
 these	O
 days	O
 :/	O
+
 @BSaltzberg	B-mention
 hahahahaha	O
 ,	O
@@ -7760,6 +8156,7 @@ home	O
 !	O
 SHOCKING	O
 !	O
+
 @KathyReid	B-mention
 have	O
 a	O
@@ -7767,6 +8164,7 @@ fun	O
 day	O
 of	O
 freedom	O
+
 @SnoopDogg	B-mention
 hey	O
 snoop	B-person
@@ -7786,6 +8184,7 @@ out	O
 to	O
 her	O
 ,	O
+
 @BadgerBlogger	B-mention
 LOL	O
 !	O
@@ -7803,6 +8202,7 @@ every	O
 dang	O
 day	O
 !"	O
+
 /Lebowski'd	O
 RT	O
 @RebellionPR	B-mention
@@ -7824,6 +8224,7 @@ the	O
 woods	O
 .	O
 #pope	O
+
 Dues	O
 can	O
 still	O
@@ -7841,6 +8242,7 @@ it	O
 @cindyyobitch_	B-mention
 @6ixty_nine	B-mention
 !!	O
+
 RT	O
 @diggy_simmons	B-mention
 :	O
@@ -7848,6 +8250,7 @@ Last	O
 day	O
 .....	O
 http://twitpic.com/2g9c1e	B-url
+
 'RT	O
 @JustinsHairFlip	B-mention
 :	O
@@ -7876,6 +8279,7 @@ TWITTER	B-company
 FOR	O
 MA	O
 ...'	O
+
 We	O
 thank	O
 you	O
@@ -7899,6 +8303,7 @@ the	O
 20	O
 ...	O
 http://tinyurl.com/27ypv4o	B-url
+
 RT	O
 @sandiegozoo	B-mention
 :	O
@@ -7921,6 +8326,7 @@ whale	O
 fossil	O
 .	O
 YG	O
+
 Have	O
 a	O
 practice	O
@@ -7942,6 +8348,7 @@ next	O
 game	O
 .	O
 :)	O
+
 Follow	O
 Friday	O
 :	O
@@ -7972,6 +8379,7 @@ robots	O
 welcome	O
 !	O
 #ff	O
+
 i	O
 wonder	O
 if	O
@@ -7985,6 +8393,7 @@ their	O
 game	O
 today	O
 ...	O
+
 of	O
 my	O
 days	O
@@ -8008,6 +8417,7 @@ habbit	O
 until	O
 i	O
 die	O
+
 Back	O
 at	O
 work	O
@@ -8026,6 +8436,7 @@ Vs	O
 .	O
 the	B-sportsteam
 Lions	I-sportsteam
+
 Baseball	O
 Tips	O
 On	O
@@ -8047,6 +8458,7 @@ league	O
 Follow	O
 Friday	O
 ..	O
+
 #MuchLove	O
 to	O
 my	O
@@ -8060,6 +8472,7 @@ in	O
 a	O
 couple	O
 days	O
+
 @tsykoduk	B-mention
 that	O
 was	O
@@ -8072,6 +8485,7 @@ has	O
 one	O
 .	O
 :-)	O
+
 Yay	O
 ,	O
 just	O
@@ -8085,6 +8499,7 @@ they'll	O
 arrive	O
 on	O
 Monday	O
+
 Five	O
 Bullpens	O
 to	O
@@ -8112,6 +8527,7 @@ teams	O
 tha	O
 ...	O
 http://bit.ly/9R73CK	B-url
+
 #blackholidays	O
 "	O
 National	O
@@ -8128,6 +8544,7 @@ God	B-person
 say	O
 day	O
 "	O
+
 "	O
 before	O
 we	O
@@ -8148,6 +8565,7 @@ old	O
 enough	O
 !........	O
 #FindTheNearestExit	O
+
 The	O
 ppl	O
 who	O
@@ -8177,6 +8595,7 @@ a	O
 Packer	B-sportsteam
 game	O
 .	O
+
 RT	O
 @PolarBeverages	B-mention
 :	O
@@ -8193,6 +8612,7 @@ Orange	O
 Dry	O
 !	O
 :)	O
+
 Analogy	O
 time	O
 !	O
@@ -8214,6 +8634,7 @@ trade)	O
 .	O
 #nfl	O
 #fb	O
+
 @ZhouMaharet	B-mention
 I	O
 haven't	O
@@ -8222,6 +8643,7 @@ a	O
 long	O
 ass	O
 time	O
+
 http://sk.mu/aEnsGunwfr9	B-url
 :	O
 Above&amp;Beyond	B-other
@@ -8243,6 +8665,7 @@ September	O
 #Trance	O
 #Trancefamily	O
 #TATW	O
+
 I'm	O
 being	O
 stalked	O
@@ -8260,6 +8683,7 @@ just	O
 now	O
 .	O
 http://yfrog.com/eir70oj	B-url
+
 I'm	O
 off	O
 I	O
@@ -8271,6 +8695,7 @@ home	O
 :D	O
 :D	O
 xxxxxx	O
+
 Need	O
 it	O
 to	O
@@ -8280,6 +8705,7 @@ at	O
 the	O
 haus	O
 tonight	O
+
 RT	O
 @Sn00ki	B-mention
 :	O
@@ -8304,6 +8730,7 @@ of	O
 the	O
 day	O
 ?	O
+
 Doctor	O
 's	O
 appointment	O
@@ -8314,6 +8741,7 @@ today	O
 .	O
 %#$&amp;@%$&amp;%&amp;@$	O
 !!!!!!!	O
+
 been	O
 listenin	O
 to	O
@@ -8337,6 +8765,7 @@ in	O
 luv	O
 yeeuuuuppp	O
 !!!	O
+
 no	O
 mins	O
 ha	O
@@ -8355,6 +8784,7 @@ stay	O
 and	O
 ball	O
 ....	O
+
 yupp	O
 !	O
 RT	O
@@ -8382,6 +8812,7 @@ yours	O
 to	O
 feel	O
 superior	O
+
 RT	O
 @INTERMIX	B-mention
 :	O
@@ -8398,6 +8829,7 @@ repent	O
 ,	O
 retweet	O
 .	O
+
 @Syniq	B-mention
 yeah	O
 ,	O
@@ -8428,6 +8860,7 @@ tomorrow	O
 afternoon	O
 tho	O
 '	O
+
 Off	O
 work	O
 I	O
@@ -8457,6 +8890,7 @@ weak	O
 Not	O
 happy	O
 .	O
+
 Wake	B-person
 ,	O
 Davidson	B-person
@@ -8489,6 +8923,7 @@ there	O
 next	O
 week	O
 .	O
+
 i	O
 may	O
 have	O
@@ -8511,6 +8946,7 @@ and	O
 stop	O
 quoting	O
 .	O
+
 RT	O
 @justingodsey	B-mention
 :	O
@@ -8528,6 +8964,7 @@ smaller	O
 birds	O
 jealous	O
 .	O
+
 RT	O
 @SdotYoung	B-mention
 :	O
@@ -8559,6 +8996,7 @@ do	O
 our	O
 best	O
 to	O
+
 VIDEO	O
 :	O
 Showbiz	B-tvshow
@@ -8570,6 +9008,7 @@ Too	O
 Gay	O
 ?:	O
 http://bit.ly/aAZMD6	B-url
+
 #np	O
 never	O
 too	O
@@ -8580,6 +9019,7 @@ days	O
 grace	O
 &lt;	O
 3	O
+
 Kk	O
 its	O
 22:48	O
@@ -8600,6 +9040,7 @@ x	O
 god	O
 bles	O
 xxxxx	O
+
 @2kjdream	B-mention
 Good	O
 morning	O
@@ -8612,6 +9053,7 @@ day	O
 from	O
 JPN	B-geo-loc
 .	O
+
 RT	O
 @fucking_way	B-mention
 :	O
@@ -8642,6 +9084,7 @@ Of	O
 The	O
 Fa	O
 ...	O
+
 @Jee_agustino	B-mention
 :O	O
 seriously	O
@@ -8652,6 +9095,7 @@ do	O
 not	O
 want	O
 ?	O
+
 'RT	O
 @keidence	B-mention
 "	O
@@ -8666,6 +9110,7 @@ happy	O
 day	O
 !"	O
 http://dlvr.it/5RcZC'	B-url
+
 Saw	O
 some	O
 people	O
@@ -8684,6 +9129,7 @@ remembered	O
 me	O
 .	O
 :)	O
+
 Observances	O
 mark	O
 9/11	O
@@ -8703,6 +9149,7 @@ marked	O
 the	O
 ...	O
 http://dlvr.it/5Rckw	B-url
+
 RT	O
 @iSplashInYoMouf	B-mention
 :	O
@@ -8713,6 +9160,7 @@ GOING	O
 OUT	O
 TONIGHT	O
 ?	O
+
 I	O
 ain't	O
 necessary	O
@@ -8742,6 +9190,7 @@ now	O
 &amp;	O
 then	O
 ...	O
+
 Love	O
 me	O
 when	O
@@ -8760,6 +9209,7 @@ it	O
 the	O
 most	O
 .	O
+
 #futbol	O
 &gt;	O
 Newcastle	B-sportsteam
@@ -8778,6 +9228,7 @@ actualizados	O
 !	O
 http://bit.ly/dBJacr	B-url
 #apuestas	O
+
 Cleveland	B-sportsteam
 Browns	I-sportsteam
 (	O
@@ -8791,6 +9242,7 @@ doubtful	O
 for	O
 Sunday	O
 http://buzztap.com/-tgXgig	B-url
+
 i	O
 decided	O
 im	O
@@ -8818,6 +9270,7 @@ sacrafices	O
 i	O
 make	O
 .	O
+
 RT	O
 @MirandaBuzz	B-mention
 :	O
@@ -8843,6 +9296,7 @@ everybody	O
 like	O
 crazy	O
 :)	O
+
 But	O
 what	O
 happens	O
@@ -8866,6 +9320,7 @@ you	O
 despite	O
 you	O
 ?	O
+
 @cosmicblend	B-mention
 but	O
 you	O
@@ -8875,6 +9330,7 @@ tonight	O
 ,	O
 right	O
 ?	O
+
 Gotta	O
 dress	O
 up	O
@@ -8887,6 +9343,7 @@ party	O
 in	O
 style	O
 !	O
+
 @modernpaper	B-mention
 @alamodestuff	B-mention
 what	O
@@ -8911,6 +9368,7 @@ an	O
 amazing	O
 time	O
 .	O
+
 I'll	O
 be	O
 gone	O
@@ -8930,6 +9388,7 @@ gonna	O
 kill	O
 em	O
 !	O
+
 @Robo_Robb	B-mention
 I	O
 see	O
@@ -8954,6 +9413,7 @@ at	O
 home	O
 :P	O
 )	O
+
 Eastern	B-geo-loc
 Bloc	I-geo-loc
 25th	O
@@ -8972,6 +9432,7 @@ using	O
 the	O
 tag	O
 #botweast	O
+
 @Jsmoothhh	B-mention
 it	O
 's	O
@@ -8983,6 +9444,7 @@ till	O
 Sunday	O
 night	O
 .	O
+
 RT	O
 @shanejoneill	B-mention
 :	O
@@ -9002,6 +9464,7 @@ vanilla	O
 iced	O
 latte	O
 http://plixi.com/p/45648946	B-url
+
 @SQicedragon	B-mention
 How	O
 can	O
@@ -9027,6 +9490,7 @@ automatically	O
 next	O
 time	O
 ?	O
+
 @zombie_killer94	B-mention
 aaahh	O
 sorry	O
@@ -9050,6 +9514,7 @@ out	O
 nov	O
 23	O
 XD	O
+
 RT	O
 @BuffSabresGrl63	B-mention
 :	O
@@ -9080,6 +9545,7 @@ better	O
 .	O
 #sab	O
 ...	O
+
 I'm	O
 pleased	O
 to	O
@@ -9097,6 +9563,7 @@ inane	O
 as	O
 me	O
 .	O
+
 RT	O
 @Desbishop	B-mention
 :	O
@@ -9113,6 +9580,7 @@ After	O
 some	O
 angel	O
 bullshit	O
+
 @bornofosichris	B-mention
 ok	O
 I'm	O
@@ -9127,6 +9595,7 @@ get	O
 a	O
 chance	O
 !	O
+
 Personal	O
 Twitter	B-company
 is	O
@@ -9149,6 +9618,7 @@ and	O
 production	O
 company	O
 .	O
+
 @aplusk	B-mention
 http://www.youtube.com/watch?v=eLMui7zBiXo	B-url
 we	O
@@ -9169,6 +9639,7 @@ hurling	O
 .	O
 Woo	O
 !!!	O
+
 Free	O
 Romeo	B-other
 &amp;	I-other
@@ -9188,6 +9659,7 @@ please	O
 come	O
 !	O
 http://is.gd/ff482	B-url
+
 Jackie	B-person
 joins	O
 Twitter	B-company
@@ -9209,12 +9681,14 @@ via	O
 buzzbox	O
 .	O
 com	O
+
 #nowplaying	O
 when	B-other
 im	I-other
 gone	I-other
 eminem	B-person
 :)	O
+
 The	O
 Cheap	O
 and	O
@@ -9234,6 +9708,7 @@ Gif	O
 http://t.co/OH9z9zq	B-url
 via	O
 @blogger	B-mention
+
 bahahah	O
 i	O
 think	O
@@ -9242,6 +9717,7 @@ over	O
 hyper	O
 today	O
 xD	O
+
 @nickjonas	B-mention
 I	O
 just	O
@@ -9270,6 +9746,7 @@ adorable	O
 thing	O
 ever	O
 .	O
+
 For	O
 the	O
 late	O
@@ -9295,6 +9772,7 @@ different	O
 situations	O
 !	O
 http://ow.ly/2G4Bm	B-url
+
 @soapsindepthcbs	B-mention
 Disagree	O
 ,	O
@@ -9324,6 +9802,7 @@ great	O
 ...	O
 splendidly	O
 .	O
+
 Fellas	O
 Don't	O
 just	O
@@ -9351,6 +9830,7 @@ may	O
 kiss	O
 the	O
 bride	O
+
 @Strigy	B-mention
 got	O
 mine	O
@@ -9377,6 +9857,7 @@ analogue	O
 controller	O
 2	O
 ?	O
+
 RT	O
 @JeremiahBonds	B-mention
 :	O
@@ -9396,10 +9877,12 @@ lol	O
 Duhhh	O
 Lol	O
 :)	O
+
 Very	O
 bad	O
 day	O
 .	O
+
 Good	O
 golly	O
 .	O
@@ -9427,6 +9910,7 @@ by	O
 an	O
 individual	O
 !	O
+
 6	O
 -	O
 close	O
@@ -9439,6 +9923,7 @@ a	O
 longg	O
 evening	O
 !	O
+
 Its	O
 clear	O
 and	O
@@ -9474,12 +9959,14 @@ today	O
 -	O
 http://cvwx.com	B-url
 #wxob	O
+
 Takin	O
 '	O
 ur	O
 hapiness	O
 before	O
 mine	O
+
 The	O
 #Forex	O
 Revolution	O
@@ -9497,6 +9984,7 @@ Hot	O
 http://bit.ly/cL	B-url
 ...	O
 http://sns.ly/Kfl55	B-url
+
 @Mandiiemars	B-mention
 she	O
 is	O
@@ -9513,6 +10001,7 @@ already	O
 miss	O
 u	O
 :(	O
+
 Mmmm	O
 wings	O
 and	O
@@ -9525,6 +10014,7 @@ extra	O
 gym	O
 time	O
 2mar	O
+
 I	O
 know	O
 u	O
@@ -9555,6 +10045,7 @@ hit	O
 u	O
 right	O
 back	O
+
 @jacobvanhorn	B-mention
 ,	O
 if	O
@@ -9575,6 +10066,7 @@ on	O
 the	O
 sofa	O
 .	O
+
 Ok	O
 yall	O
 work	O
@@ -9603,6 +10095,7 @@ don't	O
 cont	O
 )	O
 http://tl.gd/63b142	B-url
+
 @KaiyhaBADDass	B-mention
 for	O
 you	O
@@ -9614,6 +10107,7 @@ you	O
 ...	O
 seriously	O
 ...	O
+
 On	B-other
 My	I-other
 Own	I-other
@@ -9622,6 +10116,7 @@ Time	I-other
 Gym	B-musicartist
 Class	I-musicartist
 Heroes	I-musicartist
+
 argh	O
 my	O
 hands	O
@@ -9637,6 +10132,7 @@ gloves	O
 next	O
 time	O
 .	O
+
 Nothing	O
 like	O
 a	O
@@ -9644,6 +10140,7 @@ a	O
 Friday	O
 meeting	O
 !	O
+
 I	O
 favorited	O
 a	O
@@ -9655,6 +10152,7 @@ by	O
 Testing	B-musicartist
 Tomorrow	I-musicartist
 http://youtu.be/htAM7lgcelw?a	B-url
+
 We	O
 are	O
 one	O
@@ -9676,6 +10174,7 @@ measurements	O
 taken	O
 today	O
 !	O
+
 When	O
 too	O
 much	O
@@ -9689,6 +10188,7 @@ Joel	B-person
 on	O
 Technology	O
 http://bit.ly/9KKobr	B-url
+
 Having	O
 some	O
 coffee	O
@@ -9702,6 +10202,7 @@ it	O
 through	O
 tonight	O
 .	O
+
 RT	O
 @TeenThings	B-mention
 :	O
@@ -9725,6 +10226,7 @@ sleep	O
 .	O
 #teenthings	O
 #comedownwithlove	O
+
 RT	O
 @Eeenie_Meenie	B-mention
 :	O
@@ -9739,6 +10241,7 @@ is	O
 FRIDAY	O
 !	O
 :)	O
+
 @DanaTennille	B-mention
 that	O
 's	O
@@ -9752,6 +10255,7 @@ in	O
 week	O
 1	O
 .	O
+
 Haven't	O
 tweeted	O
 since	O
@@ -9769,6 +10273,7 @@ who	O
 cares	O
 about	O
 twitter	B-company
+
 Sooo	O
 I	O
 jus	O
@@ -9794,6 +10299,7 @@ Saturday	O
 yeeee	O
 !!!	O
 :)	O
+
 @Dazzx	B-mention
 I	O
 think	O
@@ -9808,6 +10314,7 @@ or	O
 twice	O
 .	O
 :)	O
+
 i	O
 see	O
 some	O
@@ -9823,6 +10330,7 @@ year	O
 ...	O
 WTF	O
 ?!	O
+
 Am	O
 thinking	O
 i	O
@@ -9845,6 +10353,7 @@ in	O
 our	O
 stairwells	O
 !	O
+
 @alealshinn	B-mention
 @BambingBling	B-mention
 ~~~	O
@@ -9865,10 +10374,12 @@ give	O
 up	O
 on	O
 them	O
+
 @KisssMyASS_	B-mention
 when	O
 ya	O
 birthday	O
+
 Working	O
 at	O
 my	O
@@ -9898,6 +10409,7 @@ anyway	O
 Yes	O
 plz	O
 .	O
+
 today	O
 is	O
 my	O
@@ -9907,6 +10419,7 @@ at	O
 the	O
 office	O
 .	O
+
 A	O
 Hughie	B-person
 O'Donoghue	I-person
@@ -9929,6 +10442,7 @@ in	O
 the	B-facility
 Fitzwilliam	I-facility
 .	O
+
 my	O
 past	O
 was	O
@@ -9950,6 +10464,7 @@ do	O
 it	O
 again	O
 .	O
+
 Goin	O
 to	O
 my	O
@@ -9981,6 +10496,7 @@ TAYLOR	B-person
 !!!	O
 LUVZ	O
 YA~	O
+
 @itzkeving	B-mention
 im	O
 getting	O
@@ -9990,6 +10506,7 @@ this	O
 monday	O
 :'	O
 )	O
+
 I	O
 wished	O
 I'd	O
@@ -10003,6 +10520,7 @@ outta	O
 this	O
 house	O
 .	O
+
 going	O
 to	O
 talk	O
@@ -10020,6 +10538,7 @@ for	O
 sundays	O
 reacharound	O
 gamenight	O
+
 @mcflysandra	B-mention
 haha	O
 yes	O
@@ -10033,6 +10552,7 @@ tomorrow	O
 good	O
 night	O
 xxx	O
+
 RT	O
 @m_candelaria	B-mention
 :	O
@@ -10049,11 +10569,13 @@ Train	O
 @TableMatters10	B-mention
 @STALKmyPRETT	B-mention
 ...	O
+
 She	O
 Love	O
 Me	O
 Long	O
 Timeeeee	O
+
 Going	O
 to	O
 start	O
@@ -10067,6 +10589,7 @@ it	O
 out	O
 on	O
 @michellebygrace	B-mention
+
 Bestfriend	O
 HouseTonight	O
 Til	O
@@ -10088,6 +10611,7 @@ IHT	O
 MODEL'$$	O
 Repp	O
 :)	O
+
 @AlineLemos	B-mention
 T.T	O
 Ainda	O
@@ -10100,6 +10624,7 @@ Day	O
 [	O
 ?	O
 ]	O
+
 RT	O
 @ThePoochStore	B-mention
 :	O
@@ -10128,6 +10653,7 @@ why	O
 .	O
 ~Author	O
 Unknown	O
+
 Beginning	O
 what	O
 I	O
@@ -10157,6 +10683,7 @@ on	O
 DVD	O
 already	O
 .	O
+
 Photo	O
 :	O
 Travie	O
@@ -10170,6 +10697,7 @@ in	O
 Chicago	B-geo-loc
 today	O
 http://tumblr.com/xvliuc7q5	B-url
+
 The	O
 forced	O
 ads	O
@@ -10195,6 +10723,7 @@ my	O
 iOS	B-product
 devices	O
 !	O
+
 Today	O
 in	O
 art	O
@@ -10229,6 +10758,7 @@ you	O
 get	O
 it	O
 !	O
+
 I'm	O
 trying	O
 to	O
@@ -10240,6 +10770,7 @@ wanna	O
 do	O
 something	O
 tonight	O
+
 RT	O
 @OMGwhatateen	B-mention
 :	O
@@ -10253,6 +10784,7 @@ it	O
 friday	O
 .	O
 #OMGwhatateen	O
+
 5	O
 Things	O
 You	O
@@ -10266,6 +10798,7 @@ Professional	O
 Photographer	O
 http://goo.gl/fb/I7rBo	B-url
 #inourhead	O
+
 Today	O
 's	O
 is	O
@@ -10293,6 +10826,7 @@ We'll	O
 miss	O
 you	O
 !!!	O
+
 Well	O
 I	O
 was	O
@@ -10309,6 +10843,7 @@ my	O
 mine	O
 #FuckeryFriday	O
 http://yfrog.com/mr8xqj	B-url
+
 @KrisReyes	B-mention
 Have	O
 an	O
@@ -10323,12 +10858,14 @@ u	O
 on	O
 CityTV	B-other
 !	O
+
 by	O
 my	O
 lonesome	O
 tonight	O
 ....	O
 #obsessions	O
+
 RT	O
 @cityroom	B-mention
 :	O
@@ -10341,6 +10878,7 @@ Sept	O
 .	O
 17	O
 http://nyti.ms/9SCejx	B-url
+
 RT	O
 @Sexstrology	B-mention
 :	O
@@ -10370,6 +10908,7 @@ your	O
 high	O
 standards	O
 .	O
+
 Work	O
 330-1130	O
 come	O
@@ -10395,6 +10934,7 @@ for	O
 a	O
 day	O
 off	O
+
 @lorymichael	B-mention
 Good	O
 Night	O
@@ -10414,6 +10954,7 @@ I	O
 love	O
 you	O
 dear	O
+
 I	O
 want	O
 2	O
@@ -10428,6 +10969,7 @@ to	O
 sleep	O
 :(	O
 http://tinychat.com/welovejustinbieber	B-url
+
 USM	B-facility
 get	O
 ready	O
@@ -10444,6 +10986,7 @@ the	O
 n	O
 2s	O
 !!	O
+
 If	O
 I	O
 could	O
@@ -10456,6 +10999,7 @@ be	O
 great	O
 thanks	O
 .	O
+
 Bouncing	O
 my	O
 ass	O
@@ -10463,6 +11007,7 @@ like	O
 thrs	O
 no	O
 tomorrow	O
+
 I	O
 KNEW	O
 IT	O
@@ -10484,6 +11029,7 @@ drunk	O
 .	O
 :	O
 L	O
+
 RT	O
 @BomadeBeverage	B-mention
 #TEAMBOMADE	O
@@ -10505,6 +11051,7 @@ http://schmap.it/YoLAXI?a	B-url
 &lt;	O
 --	O
 MAP	O
+
 @buffystar	B-mention
 Turn	O
 your	O
@@ -10512,6 +11059,7 @@ phone	O
 off	O
 tomorrow	O
 !	O
+
 What	O
 fuckin	O
 luck	O
@@ -10545,6 +11093,7 @@ have	O
 to	O
 wait	O
 1	O
+
 About	O
 online	O
 dietician	O
@@ -10569,6 +11118,7 @@ ago	O
 J	O
 ...	O
 http://bit.ly/cYGBdz	B-url
+
 RT	O
 @KdotDeeZy	B-mention
 :	O
@@ -10598,6 +11148,7 @@ in	O
 the	O
 summer	O
 ?	O
+
 @nes1983	B-mention
 as	O
 a	O
@@ -10624,6 +11175,7 @@ even	O
 get	O
 that	O
 far	O
+
 What	O
 the	O
 :\	O
@@ -10639,6 +11191,7 @@ account	O
 got	O
 limit	O
 #twitterjail	O
+
 @rachel_luttrell	B-mention
 love	O
 it	O
@@ -10662,6 +11215,7 @@ me	O
 again	O
 .	O
 :)	O
+
 Did	O
 somebody	O
 lose	O
@@ -10686,6 +11240,7 @@ us	O
 your	O
 addy	O
 )	O
+
 Hydrating	O
 for	O
 the	O
@@ -10693,6 +11248,7 @@ big	O
 game	O
 tomorrow	O
 :)	O
+
 Facebook	B-company
 Job-Hunting	O
 App	O
@@ -10715,6 +11271,7 @@ out	O
 with	O
 ...	O
 http://bit.ly/aLTo95	B-url
+
 Mostly	O
 clear	O
 tonight	O
@@ -10735,6 +11292,7 @@ near	O
 30	O
 C)	O
 .	O
+
 @justinbieber	B-mention
 When	O
 you	O
@@ -10746,6 +11304,7 @@ seriously	O
 I	O
 do	O
 !!!!	O
+
 New	O
 Comic	O
 List	O
@@ -10773,6 +11332,7 @@ for	O
 Happy	O
 ...	O
 http://fb.me/JLaJCWdu	B-url
+
 David	B-person
 's	O
 new	O
@@ -10798,6 +11358,7 @@ Salad	O
 Yes	O
 please	O
 .	O
+
 @lovable_sin	B-mention
 OMG	O
 OMG	O
@@ -10822,6 +11383,7 @@ today	O
 .	O
 OMG	O
 !	O
+
 Ugh	O
 I	O
 DON'T	O
@@ -10843,6 +11405,7 @@ Excuses	O
 Excuses	O
 Excuses	O
 SMH	O
+
 @SinfulSalvatore	B-mention
 {	O
 drinks	O
@@ -10865,6 +11428,7 @@ plans	O
 for	O
 today	O
 ?	O
+
 Pope	B-person
 Benedict	I-person
 trip	O
@@ -10888,6 +11452,7 @@ his	O
 sta	O
 ...	O
 http://bit.ly/d7tM0r	B-url
+
 "	O
 You'll	O
 find	O
@@ -10910,6 +11475,7 @@ as	O
 much	O
 ."	O
 -@TonyGaskins	O
+
 RT	O
 @mashable	B-mention
 Our	O
@@ -10924,6 +11490,7 @@ Drama	O
 Edition	O
 http://bit.ly/9duvYG	B-url
 #SMM	O
+
 lalala	O
 south	O
 game	O
@@ -10933,6 +11500,7 @@ Go	O
 us	O
 .	O
 http://bit.ly/b351o9	B-url
+
 @Kianerzzz	B-mention
 showering	O
 sleeping	O
@@ -10947,6 +11515,7 @@ when	O
 I'm	O
 sick	O
 .	O
+
 @leeboardman	B-mention
 and	O
 three	O
@@ -10957,6 +11526,7 @@ sunday	O
 na	O
 night	O
 !!	O
+
 @bubzeh	B-mention
 What	O
 are	O
@@ -10965,6 +11535,7 @@ up	O
 to	O
 today	O
 ?	O
+
 EuroVPS	B-company
 celebrates	O
 its	O
@@ -10986,6 +11557,7 @@ VPS	O
 FREE	O
 !	O
 http://fb.me/FZAfqgWn	B-url
+
 @DrHubaEvaluator	B-mention
 Not	O
 long	O
@@ -11014,6 +11586,7 @@ I	O
 did	O
 it	O
 +	O
+
 HA	O
 !	O
 RT	O
@@ -11044,6 +11617,7 @@ someone	O
 wall	O
 .	O
 ;)	O
+
 hmm	O
 ,	O
 I	O
@@ -11058,6 +11632,7 @@ update	O
 my	O
 Blackberry	B-company
 ....	O
+
 @erutan	B-mention
 Stanford	B-other
 's	O
@@ -11081,6 +11656,7 @@ rt	O
 now	O
 .	O
 http://bit.ly/9k1L4N	B-url
+
 Thanks	O
 to	O
 all	O
@@ -11103,6 +11679,7 @@ Herbie	B-person
 &amp;	O
 Freddie	B-person
 !	O
+
 Really	O
 hope	O
 I	O
@@ -11128,6 +11705,7 @@ then	O
 Trailer	O
 :	O
 http://bit.ly/bhUlum	B-url
+
 RT	O
 @ericjohnsalut	B-mention
 "	O
@@ -11142,6 +11720,7 @@ happy	O
 day	O
 !"	O
 http://dlvr.it/5Rh4w	B-url
+
 Have	O
 a	O
 feeling	O
@@ -11153,6 +11732,7 @@ be	O
 high	O
 this	O
 month	O
+
 New	O
 Dorky	O
 Stuff	O
@@ -11180,6 +11760,7 @@ and	O
 A	O
 Noodleshop	O
 http://ow.ly/193oCy	B-url
+
 RT	O
 @PHANTHANHstic	B-mention
 "	O
@@ -11193,6 +11774,7 @@ and	O
 happy	O
 day	O
 !"	O
+
 You'll	O
 come	O
 back	O
@@ -11207,6 +11789,7 @@ to	O
 say	O
 goodbye	O
 .	O
+
 RT	O
 @LilTwist	B-mention
 :	O
@@ -11224,6 +11807,7 @@ on	O
 Ustream	B-company
 later	O
 tonight	O
+
 RT	O
 @itsJuliaHardy	B-mention
 @WanderingRyu	B-mention
@@ -11248,6 +11832,7 @@ u	O
 can	O
 .	O
 XX	O
+
 'RT	O
 @ihatequotes	B-mention
 :	O
@@ -11279,6 +11864,7 @@ it	O
 -@KimKardashian	O
 #i	O
 ...'	O
+
 I	O
 hate	O
 when	O
@@ -11312,6 +11898,7 @@ and	O
 stuff	O
 .	O
 lol	O
+
 There	O
 is	O
 like	O
@@ -11330,6 +11917,7 @@ going	O
 with	O
 my	O
 dad	O
+
 RT	O
 @ajc	B-mention
 :	O
@@ -11358,6 +11946,7 @@ choice	O
 Brett	B-person
 Favre	I-person
 .	O
+
 @BornThisWayBaby	B-mention
 thankk	O
 yhuu	O
@@ -11368,6 +11957,7 @@ made	O
 my	O
 day	O
 :D	O
+
 @taqui_jade	B-mention
 lol	O
 I	O
@@ -11389,6 +11979,7 @@ open	O
 they	O
 mouth	O
 lol	O
+
 @Quintessence_T	B-mention
 I	O
 COME	O
@@ -11404,6 +11995,7 @@ SUM	O
 NEW	O
 PIX	O
 AIGHT	O
+
 RT	O
 @ChrystallK	B-mention
 :	O
@@ -11430,6 +12022,7 @@ Nov	O
 .	O
 show	O
 http://bit.ly/8YLSw4	B-url
+
 @cassidyhaley	B-mention
 ah	O
 ,	O
@@ -11456,6 +12049,7 @@ call	O
 me	O
 anytime	O
 :)	O
+
 Yes	O
 sir	O
 ,	O
@@ -11473,6 +12067,7 @@ man	O
 that	O
 Josh	B-person
 .	O
+
 RT	O
 @MarioBB9	B-mention
 :	O
@@ -11501,6 +12096,7 @@ having	O
 a	O
 proble	O
 ...	O
+
 Man	O
 I	O
 swear	O
@@ -11520,6 +12116,7 @@ gettin	O
 worn	O
 today	O
 ....	O
+
 RT	O
 @ArtVanFurniture	B-mention
 :	O
@@ -11545,6 +12142,7 @@ from	O
 @wilxTV	B-mention
 .	O
 http://twitpic.com/2pb3i4	B-url
+
 @PersonalSelena	B-mention
 can	O
 you	O
@@ -11561,6 +12159,7 @@ day	O
 .	O
 Peace	O
 !	O
+
 good	O
 friday	O
 whatchu	O
