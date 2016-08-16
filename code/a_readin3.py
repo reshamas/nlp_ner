@@ -129,8 +129,9 @@ def output_file(datalist, out_filename):
                 else:
                     fh.write(row[2] + "\t" + row[4] + "\n")
 
-
 output_file(ner_list_run2, "../data_recoded/run2_recode_class.tsv")
+
+# Note:  in original data file, the first line is not blank, but the last line is.
 
 # check that list length matches output file length
 
