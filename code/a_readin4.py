@@ -15,6 +15,7 @@
 from nltk.util import ngrams
 from collections import defaultdict
 from pprint import pprint
+from itertools import izip
 
 # this is sample of raw data structure:
 '''
@@ -84,7 +85,8 @@ def read_data(datafile, logp):
 #ner_list = read_data("../data/all.iob", 0)
 
 # use data (some small subsets to test code)
-ner_list, ner_word_list = read_data("../data/lines50.iob", 1)
+ner_list, ner_word_list = read_data("../data/lines25.iob", 1)
+#ner_list, ner_word_list = read_data("../data/lines50.iob", 1)
 #ner_list = read_data("../data/lines60.iob", 0)
 #ner_list = read_data("../data/line350.iob", 0)
 
@@ -238,122 +240,74 @@ def printDict(dictname):
     for k, v in dictname.items():
         print k, v
 
-printDict(d_bychar_char)
-printDict(d_bychar_tclass1)
-printDict(d_bychar_tclass2)
+#printDict(d_bychar_char)
+#printDict(d_bychar_tclass1)
+#printDict(d_bychar_tclass2)
 
 
 
+#----------------------------------------------
+#  create ngrams
+#----------------------------------------------
+def create_ngrams(dict1, dict2, logp):
+    """
+    tkey = tweet number 
+    tvalue = each character of tweet
+    ckey = tweet number
+    cvalue = class
+    logp = log print = print for troubleshooting
+    """
+    ngrams_list = []
+    for (tkey, tvalue), (ckey, cvalue) in izip(dict1.iteritems(), \
+                                               dict2.iteritems()):
+        tweet_length = sum(1 for v in tvalue if v)
+        for gram_length in range(2, tweet_length+1):
+            gramitems = ngrams(tvalue, gram_length)
+
+            for index, grams in enumerate(gramitems, start=0):
+                #print "\ngrams: ", grams
+                #print "\tclass: ", cvalue[index]
+                gramsjoined = "".join(grams)
+                item = [tkey, gram_length, gramsjoined, cvalue[index]]
+                ngrams_list.append(item)
+                #print "item: ", item
+                #print "gram_length: ", gram_length
+                #print "grams: ", gramsjoined
+        if logp == 1:
+            #print "\ntweet_length: ", tweet_length
+            #print tkey
+            #print tvalue
+            #print ckey
+            #print cvalue
+
+            print "\nmaximum-length gram: ", tweet_length
+            print gramsjoined
+            print cvalue[index]
+            #pprint(ngrams_list)
+
+    return ngrams_list
+
+# Note: I am including the class that corresponds to letter at start of ngram
+#       This will be adjusted later
+# this is what ngrams list looks like: tweet number, ngram length, ngram, class at start of ngram
 '''
-from itertools import izip
-for (tkey, tvalue), (ckey, cvalue) in izip(dtweet.iteritems(), dtweetcl.iteritems()):
-       tweet_length = sum(1 for v in tvalue if v)
-       print "\ntweet_length: ", tweet_length
-       print tkey
-       print tvalue
-       print ckey
-       print cvalue
-       for gramlength in range(3, tweet_length):
-           gramitems = ngrams(tvalue, gramlength)
-
-           for index, grams in enumerate(gramitems, start=0):
-               #print "\ngrams: ", grams
-               #print "\tclass: ", cvalue[index]
-
-               gramsjoined = "".join(grams)
-               #print "grams: ", gramsjoined
-               
-       print "\nmaximum-length gram: "
-       print gramsjoined
-       print cvalue[index]
-
-
-
-
-
-
-
-print "------------------------------"
-# tkey = tweet number 
-# tvalue = each character of tweet
-# ckey = tweet number
-# cvalue = class
-
-
-
-def create_ngrams():
-    return
-
+[['1', 2, 'RT', 'O'],
+ ['1', 2, 'T@', 'O'],
+ ['1', 2, '@P', 'B-mention'],
+ ['1', 2, 'Pe', 'B-mention'],
+ ['1', 2, 'et', 'B-mention'],
+ ['1', 2, 'te', 'B-mention'],
+ ['1', 2, 'er', 'B-mention'],
+ ['1', 2, 'rR', 'B-mention'],
+ ['1', 2, 'Ra', 'B-mention'],
+ ['1', 2, 'ab', 'B-mention'],
+ ['1', 2, 'bb', 'B-mention'],
+ ['1', 2, 'bi', 'B-mention'],
+ ['1', 2, 'it', 'B-mention'],
 '''
 
+ngrams_list_class1 = create_ngrams(d_bychar_char, d_bychar_tclass1, 1)
+ngrams_list_class2 = create_ngrams(d_bychar_char, d_bychar_tclass2, 1)
 
-'''       
-# initialize dictionaries
-d = defaultdict(list)
-dtweetword = defaultdict(list)
-dtweetword_class = defaultdict(list)
-dclass = defaultdict(list)
+pprint(ngrams_list_class2[:520])
 
-# Fill in the entries one by one
-
-for line in ner_list:
-    #setkey = tuple((line[0], line[1], line[2], line[4], line[5]))
-    #setkey = tuple(str(line[0]))
-    setkey = tuple((line[0], line[1]))
-    token = line[3]
-    tclass1 = tuple((line[4], line[5]))
-    #token_class = tuple((token, line[4], line[5]))
-    token_class = list((token, line[4], line[5]))
-    #print setkey, token_class
-    d[setkey].append(line[3])
-    dclass[setkey].append(tclass1)
-
-    dtweet[str(line[0])].append(line[3])
-    dtweetcl[str(line[0])].append(line[4])
-    
-    
-#print "\nlen(d=dictionary): ", len(d)
-#print "\nlen(dclass dict):  ", len(dclass)
-
-print "\nlen(dtweet dict):  ", len(dtweet)
-print "\nlen(dclass dict):  ", len(dtweetcl)
-
-
-def printDict(dictname):
-    for k, v in dictname.items():
-        print k, v
-
-
-print "------------------------------"
-printDict(dtweet)
-print "------------------------------"
-printDict(dtweetcl)
-
-print "------------------------------"
-# tkey = tweet number 
-# tvalue = each character of tweet
-# ckey = tweet number
-# cvalue = class
-
-from itertools import izip
-for (tkey, tvalue), (ckey, cvalue) in izip(dtweet.iteritems(), dtweetcl.iteritems()):
-       tweet_length = sum(1 for v in tvalue if v)
-       print "\ntweet_length: ", tweet_length
-       print tkey
-       print tvalue
-       print ckey
-       print cvalue
-       for gramlength in range(3, tweet_length):
-           gramitems = ngrams(tvalue, gramlength)
-
-           for index, grams in enumerate(gramitems, start=0):
-               #print "\ngrams: ", grams
-               #print "\tclass: ", cvalue[index]
-
-               gramsjoined = "".join(grams)
-               #print "grams: ", gramsjoined
-               
-       print "\nmaximum-length gram: "
-       print gramsjoined
-       print cvalue[index]
-'''
