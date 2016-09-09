@@ -392,39 +392,16 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
         output_file2(ngrams_dev_class2, "../eval_files/" + dev_output_file)
 
 
-    # ------------------------------------
-    
-    # workflows
-
-    # Evaluation 1 (done by Pablo)
-    # a) make lists from raw data
-    # b) create dictionaries
-    # c) create ngrams
-    # d) output file
-    
-    # Evalution 2 (done by Pablo)  bigrams
-    
-    # Evaluation 3 (to do by Reshama)
-    # a) make lists from raw data
-    # b) add new class
-    # c) output file
-
-
-    # Evaluation 4 (to do by Reshama)
-    # a) make lists from raw data
-    # b) add new class
-    # b) create dictionaries
-    # c) create ngrams
-    # d) output file
 
 
       
 if __name__ == '__main__':
     # these are the fields to send up to main program
-    #main(eval_run, eval_desc, add_newclass, num_ngrams)
+    # main(eval_run, eval_desc, add_newclass, num_ngrams)
 
     #main(1, "4gram", 0, 4)
-
+    #main(2, "bigram", 0, 2)
+    
     #main(3, "newclass", 1, 0)
 
     main(4, "newclass_4gram", 1, 4)
