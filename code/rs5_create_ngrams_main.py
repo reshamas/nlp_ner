@@ -206,8 +206,10 @@ def create_dict(datalist, whichclass, logp):
     # initialize dictionary
     dicttweet = defaultdict(list)
 
+    linect = 0
     # Fill in the entries one by one
     for line in datalist:
+        linect += 1
         setkey = tuple((line[0], line[1]))
         token = line[3]
         
@@ -220,7 +222,12 @@ def create_dict(datalist, whichclass, logp):
 
         if logp == 1:
             #print line
-            pprint(dicttweet)
+            if linect == 250:
+                #pprint(dicttweet)
+                print "len(dictionary): ", len(dicttweet)
+                for k, v in dicttweet.items():
+                    print "-"*10
+                    print k, v
 
     return dicttweet
 
@@ -309,38 +316,78 @@ def main(add_newclass, num_ngrams):
     test(dev): 12,170 lines
     """
 
-    # 1  1 0 0 1 1 1
-    # 2  1 1 1 0 0 0
-    # 3  1 1 0 1 1 1
-    # Pablo's additions
+    # Pablo's run - Evaluation 1
     # Step 1:  make lists from raw input file
-    ner_list_train, ner_word_list = read_data("../../wnut_ner_evaluation/data/train", 0)
-    ner_list_dev, ner_word_list = read_data("../../wnut_ner_evaluation/data/dev", 0)
+    #ner_list_train, ner_word_list = read_data("../../wnut_ner_evaluation/data/train", 0)
+    #ner_list_dev, ner_word_list = read_data("../../wnut_ner_evaluation/data/dev", 0)
 
     # Step 2:  add new class
-    #if add_newclass == 1:
-    #    return
+    # NA
 
-    # Step 3:  output file
-
+    # Step x:  output file
+    # NA
     
     # Step 3: create dictionaries needed for adding new class and ngrams  
-    d_bychar_char_train = create_dict(ner_list_train, 3, 0)
-    d_bychar_tclass1_train = create_dict(ner_list_train, 4, 0)
+    #d_bychar_char_train = create_dict(ner_list_train, 3, 0)
+    #d_bychar_tclass1_train = create_dict(ner_list_train, 4, 0)
 
-    d_bychar_char_dev = create_dict(ner_list_dev, 3, 0)
-    d_bychar_tclass1_dev = create_dict(ner_list_dev, 4, 0)
+    #d_bychar_char_dev = create_dict(ner_list_dev, 3, 0)
+    #d_bychar_tclass1_dev = create_dict(ner_list_dev, 4, 0)
     
-
     # Step 4:  create ngrams
-    ngrams_list_class1_train = create_ngrams(d_bychar_char_train, d_bychar_tclass1_train, num_ngrams, 0)
-    ngrams_list_class1_dev = create_ngrams(d_bychar_char_dev, d_bychar_tclass1_dev, num_ngrams, 0)
+    #ngrams_list_class1_train = create_ngrams(d_bychar_char_train, d_bychar_tclass1_train, num_ngrams, 0)
+    #ngrams_list_class1_dev = create_ngrams(d_bychar_char_dev, d_bychar_tclass1_dev, num_ngrams, 0)
 
     # Step 5:  output ngrams to a file
-    output_file2(ngrams_list_class1_train, "../eval_files/eval_1_4gram/data/eval_1_train_4gram")
-    output_file2(ngrams_list_class1_dev, "../eval_files/eval_1_4gram//data/eval_1_dev_4gram")
-    
+    #output_file2(ngrams_list_class1_train, "../eval_files/eval_1_4gram/data/eval_1_train_4gram")
+    #output_file2(ngrams_list_class1_dev, "../eval_files/eval_1_4gram//data/eval_1_dev_4gram")
 
+    #-------------------------------------
+    # Reshama's run - Evaluation 3
+    # Step 1:  make lists from raw input file
+    ner_char_list_train, ner_word_list_train = read_data("../../wnut_ner_evaluation/data/train", 0)
+    ner_char_list_dev, ner_word_list_dev = read_data("../../wnut_ner_evaluation/data/dev", 0)
+
+    # Step 2:  add new class
+    if add_newclass == 1:
+        ner_char_list_train_newclass = add_class(ner_char_list_train, 4, 0)
+        ner_word_list_train_newclass = add_class(ner_word_list_train, 3, 0)
+
+        ner_char_list_dev_newclass = add_class(ner_char_list_dev, 4, 0)
+        ner_word_list_dev_newclass = add_class(ner_word_list_dev, 3, 0)
+        
+        output_file(ner_word_list_train_newclass, "../eval_files/eval_3_train_newclass")
+        output_file(ner_word_list_dev_newclass,   "../eval_files/eval_3_dev_newclass")
+
+        # create dictionaries, then ngrams
+        # Step 3: create dictionaries needed for adding new class and ngrams  
+        d_bychar_train_newclass= create_dict(ner_char_list_train_newclass, 3, 1)
+        ###### dont need   d_bychar_train_tclass1 = create_dict(ner_char_list_train_newclass, 4, 1)
+        d_bychar_train_tclass2 = create_dict(ner_char_list_train_newclass, 5, 1)
+
+        ###### dont need ngrams_train_class1 = create_ngrams(d_bychar_train_newclass, d_bychar_train_tclass1, 4, 0)
+        ngrams_train_class2 = create_ngrams(d_bychar_train_newclass, d_bychar_train_tclass2, 4, 0)
+
+        ###### pprint(ngrams_train_class1[:520])
+        print "-"*25
+        pprint(ngrams_train_class2[:520])
+        
+
+        
+    #d_bychar_char_dev = create_dict(ner_list_dev, 3, 0)
+    #d_bychar_tclass1_dev = create_dict(ner_list_dev, 4, 0)
+    
+    # Step 4:  create ngrams
+    #ngrams_list_class1_train = create_ngrams(d_bychar_char_train, d_bychar_tclass1_train, num_ngrams, 0)
+    #ngrams_list_class1_dev = create_ngrams(d_bychar_char_dev, d_bychar_tclass1_dev, num_ngrams, 0)
+
+    # Step 5:  output ngrams to a file
+    #output_file2(ngrams_list_class1_train, "../eval_files/eval_1_4gram/data/eval_1_train_4gram")
+    #output_file2(ngrams_list_class1_dev, "../eval_files/eval_1_4gram//data/eval_1_dev_4gram")
+
+
+    # ------------------------------------
+    
     # workflows
 
     # Evaluation 1 (done by Pablo)
@@ -349,14 +396,15 @@ def main(add_newclass, num_ngrams):
     # c) create ngrams
     # d) output file
     
-
-    # Evaluation 2 (to do by Reshama)
+    # Evalution 2 (done by Pablo)  bigrams
+    
+    # Evaluation 3 (to do by Reshama)
     # a) make lists from raw data
     # b) add new class
     # c) output file
 
 
-    # Evaluation 3 (to do by Reshama)
+    # Evaluation 4 (to do by Reshama)
     # a) make lists from raw data
     # b) add new class
     # b) create dictionaries
@@ -364,27 +412,20 @@ def main(add_newclass, num_ngrams):
     # d) output file
 
 
-    
-    
-    """
-    Step 1:  make lists from raw input file
-    ner_char_list_train:  will use this to update class
-    ner_word_list:   will output this in a file to be used for evaluation
-    """
-    # Step 1
-    #ner_char_list_train, ner_word_list = read_data("../../wnut_ner_evaluation/data/train", 1)
-    #ner_char_list_run2 = add_class(ner_char_list_train, 4, 0)
-
-    #ner_list_for_output_file = add_class(ner_word_list, 3, 0)
-
-    
+      
 if __name__ == '__main__':
     add_newclass = 0
     num_ngrams = 4
     eval_run = 1
-    eval_desc = "4gram" #"add_class"
-    #main(add_newclass, num_ngrams)
-    main(0, 4)
+    eval_desc = "4gram"
+    ####main(add_newclass, num_ngrams)
+    #main(0, 4)
+
+    add_newclass = 1
+    #num_ngrams = 99 (NA)
+    eval_run = 3
+    eval_desc = "newclass"
+    main(1, 99)
 
 
 
