@@ -356,14 +356,14 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
         ner_char_list_dev_newclass = add_class(ner_char_list_dev, 4, 0)
         ner_word_list_dev_newclass = add_class(ner_word_list_dev, 3, 0)
 
-        train_output_file = "eval_" + str(eval_run) + "_train_newclass" 
-        dev_output_file = "eval_" + str(eval_run) + "_dev_newclass" 
+        train_output_file = "eval_" + str(eval_run) + "_train_" + eval_desc
+        dev_output_file = "eval_" + str(eval_run) + "_dev_" + eval_desc
         
         print "train_output_file: " , train_output_file
         print "dev_output_file:   ", dev_output_file
         
-        output_file(ner_word_list_train_newclass, "../eval_files/" + train_output_file)
-        output_file(ner_word_list_dev_newclass,   "../eval_files/" + dev_output_file)
+        output_file(ner_word_list_train_newclass, "../eval_files/train_output_file")
+        output_file(ner_word_list_dev_newclass,   "../eval_files/dev_output_file")
 
     if num_ngrams > 0:
         # create dictionaries, then ngrams
@@ -374,22 +374,22 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
         d_bychar_train_tclass2 = create_dict(ner_char_list_train_newclass, 5, 1)
         d_bychar_dev_tclass2   = create_dict(ner_char_list_dev_newclass, 5, 1)
 
-        # Step 4: create ngrams
         ngrams_train_class2 = create_ngrams(d_bychar_train_newclass, d_bychar_train_tclass2, num_ngrams, 0)
         ngrams_dev_class2   = create_ngrams(d_bychar_dev_newclass, d_bychar_dev_tclass2, num_ngrams, 0)
 
+        ###### pprint(ngrams_train_class1[:520])
         print "-"*25
-        pprint(ngrams_train_class2[:250])
-        pprint(ngrams_dev_class2[:250])
+        pprint(ngrams_train_class2[:520])
+        pprint(ngrams_dev_class2[:520])
+          
+    
+    # Step 4:  create ngrams
+    #ngrams_list_class1_train = create_ngrams(d_bychar_char_train, d_bychar_tclass1_train, num_ngrams, 0)
+    #ngrams_list_class1_dev = create_ngrams(d_bychar_char_dev, d_bychar_tclass1_dev, num_ngrams, 0)
 
-        # Step 5:  output ngrams to a file
-        train_output_file = "eval_" + str(eval_run) + "_train_" + eval_desc
-        dev_output_file = "eval_" + str(eval_run) + "_dev_" + eval_desc
-        print "train_output_file: " , train_output_file
-        print "dev_output_file:   ", dev_output_file
-
-        output_file2(ngrams_train_class2, "../eval_files/" + train_output_file)
-        output_file2(ngrams_dev_class2, "../eval_files/" + dev_output_file)
+    # Step 5:  output ngrams to a file
+    #output_file2(ngrams_list_class1_train, "../eval_files/eval_1_4gram/data/eval_1_train_4gram")
+    #output_file2(ngrams_list_class1_dev, "../eval_files/eval_1_4gram//data/eval_1_dev_4gram")
 
 
     # ------------------------------------
@@ -420,16 +420,25 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
 
       
 if __name__ == '__main__':
-    # these are the fields to send up to main program
-    #main(eval_run, eval_desc, add_newclass, num_ngrams)
-
+    eval_run = 1
+    eval_desc = "4gram"
+    add_newclass = 0
+    num_ngrams = 4
+    ####main(add_newclass, num_ngrams)
     #main(1, "4gram", 0, 4)
 
+    eval_run = 3
+    eval_desc = "newclass"
+    add_newclass = 1
+    num_ngrams = 0
     #main(3, "newclass", 1, 0)
 
-    main(4, "newclass_4gram", 1, 4)
-
-    #main(5, "newclass_bigram", 1, 2)
+    eval_run = 4
+    eval_desc = "newclass_4grams"
+    add_newclass = 1
+    num_ngrams = 4
+    #main(4, "newclass_4grams", 1, 4)
+    main(eval_run, eval_desc, add_newclass, num_ngrams)
     
 
 
