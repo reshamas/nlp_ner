@@ -16,6 +16,7 @@ from nltk.util import ngrams
 from collections import defaultdict
 from pprint import pprint
 from itertools import izip
+import re
 
 # this is sample of raw data structure:
 '''
@@ -121,20 +122,33 @@ def add_class(datalist, tclass1_loc, logp):
     """
     newlist = []
     changect = 0
+    extra_url = 0  # urls that have .com, .en, org (don't begin with http)
     # identify records with a change in class
     for item in datalist:
         change = 0
         token=item[2]
+
+        # check for urls in token
+        url_http_start = token.startswith("http")
+
+        pattern = re.compile(r'([^\/]*\.(?:com|en|org|edu|net|gov|biz|info|me|co))')
+        url_domain_end = pattern.search(token)
+
+        if not url_http_start and url_domain_end:
+            print item
         # add class for twitter mention
         if token[0] == "@":
             tclass2 = "B-mention"
             changect += 1
             change = 1
-        elif token.startswith("http"):
+        elif url_http_start or url_domain_end:
             # Add a class for url links
             tclass2 = "B-url"
             changect += 1
             change = 1
+            if not url_http_start and url_domain_end:
+                extra_url += 1
+                #print extra_url, token
         else:
             tclass2 = item[tclass1_loc]
             change = 0
@@ -151,7 +165,8 @@ def add_class(datalist, tclass1_loc, logp):
     print "number of changes:  ", changect
     print "newlist (with updated classes) "
     pprint(newlist[0:10])
-    print "--------------------------------------"      
+    print "--------------------------------------"
+    print "extra_url (don't begin with 'http'): ", extra_url
     return newlist
 
 
@@ -308,7 +323,7 @@ def create_ngrams(dict1, dict2, num_ngrams, logp):
  ['1', 2, 'it', 'B-mention'],
 '''
 
-def main(eval_run, eval_desc, add_newclass, num_ngrams):
+def main(eval_run, eval_desc, add_newclass, num_ngrams, train_file, dev_file):
     """
     function input:  train or dev datafiles
     function returns:  by char list, by word list
@@ -345,8 +360,8 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
     #-------------------------------------
     # Reshama's run - Evaluation 3
     # Step 1:  make lists from raw input file
-    ner_char_list_train, ner_word_list_train = read_data("../../wnut_ner_evaluation/data/train", 0)
-    ner_char_list_dev, ner_word_list_dev = read_data("../../wnut_ner_evaluation/data/dev", 0)
+    ner_char_list_train, ner_word_list_train = read_data("../../wnut_ner_evaluation/data/" + train_file, 0)
+    ner_char_list_dev, ner_word_list_dev = read_data("../../wnut_ner_evaluation/data/" + dev_file, 0)
 
     # Step 2:  add new class
     if add_newclass == 1:
@@ -359,8 +374,8 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
         train_output_file = "eval_" + str(eval_run) + "_train_newclass" 
         dev_output_file = "eval_" + str(eval_run) + "_dev_newclass" 
         
-        print "train_output_file: " , train_output_file
-        print "dev_output_file:   ", dev_output_file
+        #print "train_output_file: " , train_output_file
+        #print "dev_output_file:   ", dev_output_file
         
         output_file(ner_word_list_train_newclass, "../eval_files/" + train_output_file)
         output_file(ner_word_list_dev_newclass,   "../eval_files/" + dev_output_file)
@@ -368,19 +383,19 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
     if num_ngrams > 0:
         # create dictionaries, then ngrams
         # Step 3: create dictionaries needed for adding new class and ngrams  
-        d_bychar_train_newclass= create_dict(ner_char_list_train_newclass, 3, 1)
-        d_bychar_dev_newclass= create_dict(ner_char_list_dev_newclass, 3, 1)
+        d_bychar_train_newclass= create_dict(ner_char_list_train_newclass, 3, 0)
+        d_bychar_dev_newclass= create_dict(ner_char_list_dev_newclass, 3, 0)
 
-        d_bychar_train_tclass2 = create_dict(ner_char_list_train_newclass, 5, 1)
-        d_bychar_dev_tclass2   = create_dict(ner_char_list_dev_newclass, 5, 1)
+        d_bychar_train_tclass2 = create_dict(ner_char_list_train_newclass, 5, 0)
+        d_bychar_dev_tclass2   = create_dict(ner_char_list_dev_newclass, 5, 0)
 
         # Step 4: create ngrams
         ngrams_train_class2 = create_ngrams(d_bychar_train_newclass, d_bychar_train_tclass2, num_ngrams, 0)
         ngrams_dev_class2   = create_ngrams(d_bychar_dev_newclass, d_bychar_dev_tclass2, num_ngrams, 0)
 
         print "-"*25
-        pprint(ngrams_train_class2[:250])
-        pprint(ngrams_dev_class2[:250])
+        pprint(ngrams_train_class2[:25])
+        pprint(ngrams_dev_class2[:25])
 
         # Step 5:  output ngrams to a file
         train_output_file = "eval_" + str(eval_run) + "_train_" + eval_desc
@@ -397,16 +412,16 @@ def main(eval_run, eval_desc, add_newclass, num_ngrams):
       
 if __name__ == '__main__':
     # these are the fields to send up to main program
-    # main(eval_run, eval_desc, add_newclass, num_ngrams)
+    # main(eval_run, eval_desc, add_newclass, num_ngrams, train_file, dev_file)
 
-    #main(1, "4gram", 0, 4)
-    #main(2, "bigram", 0, 2)
+    #main(1, "4gram", 0, 4, "train", "dev")
+    #main(2, "bigram", 0, 2, "train", "dev")
     
-    #main(3, "newclass", 1, 0)
+    #main(3, "newclass", 1, 0, "train", "dev")
 
-    main(4, "newclass_4gram", 1, 4)
+    #main(4, "newclass_4gram", 1, 4, "train", "dev")
 
-    #main(5, "newclass_bigram", 1, 2)
+    main(5, "newclass_bigram", 1, 2, "train", "dev")
     
 
 
